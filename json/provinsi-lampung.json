@@ -1,0 +1,307 @@
+{
+  "provinsi": "Lampung",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Pringsewu",
+      "kecamatan": [
+        { "nama": "Pagelaran", "kode_unik": "01" },
+        { "nama": "Adiluwih", "kode_unik": "02" },
+        { "nama": "Ambarawa", "kode_unik": "03" },
+        { "nama": "Banyumas", "kode_unik": "04" },
+        { "nama": "Gading Rejo", "kode_unik": "05" },
+        { "nama": "Pringsewu", "kode_unik": "06" },
+        { "nama": "Sukoharjo", "kode_unik": "07" },
+        { "nama": "Pagelaran Utara", "kode_unik": "08" },
+        { "nama": "Pardasuka", "kode_unik": "09" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Tanggamus",
+      "kecamatan": [
+        { "nama": "Air Naningan", "kode_unik": "10" },
+        { "nama": "Bandar Negeri Semuong", "kode_unik": "11" },
+        { "nama": "Bulok", "kode_unik": "12" },
+        { "nama": "Gisting", "kode_unik": "13" },
+        { "nama": "Cukuh Balak", "kode_unik": "14" },
+        { "nama": "Gunung Alip", "kode_unik": "15" },
+        { "nama": "Kelumbayan", "kode_unik": "16" },
+        { "nama": "Kelumbayan Barat", "kode_unik": "17" },
+        { "nama": "Kota Agung", "kode_unik": "18" },
+        { "nama": "Kota Agung Barat", "kode_unik": "19" },
+        { "nama": "Kota Agung Timur", "kode_unik": "20" },
+        { "nama": "Limau", "kode_unik": "21" },
+        { "nama": "Pematang Sawa", "kode_unik": "22" },
+        { "nama": "Pulau Panggung", "kode_unik": "23" },
+        { "nama": "Semaka", "kode_unik": "24" },
+        { "nama": "Sumberejo", "kode_unik": "25" },
+        { "nama": "Talang Padang", "kode_unik": "26" },
+        { "nama": "Ulu Belu", "kode_unik": "27" },
+        { "nama": "Wonosobo", "kode_unik": "28" },
+        { "nama": "Pugung", "kode_unik": "29" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Lampung Utara",
+      "kecamatan": [
+        { "nama": "Abung Barat", "kode_unik": "30" },
+        { "nama": "Abung Kunang", "kode_unik": "31" },
+        { "nama": "Abung Pekurun", "kode_unik": "32" },
+        { "nama": "Abung Selatan", "kode_unik": "33" },
+        { "nama": "Abung Semuli", "kode_unik": "34" },
+        { "nama": "Abung Surakarta", "kode_unik": "35" },
+        { "nama": "Abung Tengah", "kode_unik": "36" },
+        { "nama": "Abung Timur", "kode_unik": "37" },
+        { "nama": "Abung Tinggi", "kode_unik": "38" },
+        { "nama": "Blambangan Pagar", "kode_unik": "39" },
+        { "nama": "Bukit Kemuning", "kode_unik": "40" },
+        { "nama": "Bunga Mayang", "kode_unik": "41" },
+        { "nama": "Hulu Sungkai", "kode_unik": "42" },
+        { "nama": "Kotabumi", "kode_unik": "43" },
+        { "nama": "Kotabumi Selatan", "kode_unik": "44" },
+        { "nama": "Kotabumi Utara", "kode_unik": "45" },
+        { "nama": "Muara Sungkai", "kode_unik": "46" },
+        { "nama": "Sungkai Barat", "kode_unik": "47" },
+        { "nama": "Sungkai Jaya", "kode_unik": "48" },
+        { "nama": "Sungkai Selatan", "kode_unik": "49" },
+        { "nama": "Sungkai Tengah", "kode_unik": "50" },
+        { "nama": "Sungkai Utara", "kode_unik": "51" },
+        { "nama": "Tanjung Raja", "kode_unik": "52" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Pesawaran",
+      "kecamatan": [
+        { "nama": "Gedong Tataan", "kode_unik": "53" },
+        { "nama": "Kedondong", "kode_unik": "54" },
+        { "nama": "Marga Punduh", "kode_unik": "55" },
+        { "nama": "Negeri Katon", "kode_unik": "56" },
+        { "nama": "Padang Cermin", "kode_unik": "57" },
+        { "nama": "Punduh Pidada", "kode_unik": "58" },
+        { "nama": "Tegineneng", "kode_unik": "59" },
+        { "nama": "Teluk Pandan", "kode_unik": "60" },
+        { "nama": "Way Khilau", "kode_unik": "61" },
+        { "nama": "Way Lima", "kode_unik": "62" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Way Kanan",
+      "kecamatan": [
+        { "nama": "Bahuga", "kode_unik": "63" },
+        { "nama": "Banjar Baru", "kode_unik": "64" },
+        { "nama": "Baradatu", "kode_unik": "65" },
+        { "nama": "Banjit", "kode_unik": "66" },
+        { "nama": "Blambangan Umpu", "kode_unik": "67" },
+        { "nama": "Buay Bahuga", "kode_unik": "68" },
+        { "nama": "Bumi Agung", "kode_unik": "69" },
+        { "nama": "Gunung Labuhan", "kode_unik": "70" },
+        { "nama": "Kasui", "kode_unik": "71" },
+        { "nama": "Negara Batin", "kode_unik": "72" },
+        { "nama": "Negeri Agung", "kode_unik": "73" },
+        { "nama": "Negeri Besar", "kode_unik": "74" },
+        { "nama": "Pakuan Ratu", "kode_unik": "75" },
+        { "nama": "Rebang Tangkas", "kode_unik": "76" },
+        { "nama": "Way Tuba", "kode_unik": "77" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Mesuji",
+      "kecamatan": [
+        { "nama": "Mesuji", "kode_unik": "78" },
+        { "nama": "Mesuji Timur", "kode_unik": "79" },
+        { "nama": "Panca Jaya", "kode_unik": "80" },
+        { "nama": "Rawa Jitu Utara", "kode_unik": "81" },
+        { "nama": "Simpang Pematang", "kode_unik": "82" },
+        { "nama": "Tanjung Raya", "kode_unik": "83" },
+        { "nama": "Way Serdang", "kode_unik": "84" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Tulang Bawang",
+      "kecamatan": [
+        { "nama": "Banjar Agung", "kode_unik": "85" },
+        { "nama": "Banjar Baru", "kode_unik": "86" },
+        { "nama": "Banjar Margo", "kode_unik": "87" },
+        { "nama": "Dente Teladas", "kode_unik": "88" },
+        { "nama": "Gedung Aji", "kode_unik": "89" },
+        { "nama": "Gedung Aji Baru", "kode_unik": "90" },
+        { "nama": "Gedung Meneng", "kode_unik": "91" },
+        { "nama": "Menggala", "kode_unik": "92" },
+        { "nama": "Menggala Timur", "kode_unik": "93" },
+        { "nama": "Meraksa Aji", "kode_unik": "94" },
+        { "nama": "Penawar Aji", "kode_unik": "95" },
+        { "nama": "Penawar Tama", "kode_unik": "96" },
+        { "nama": "Rawajitu Selatan", "kode_unik": "97" },
+        { "nama": "Rawajitu Timur", "kode_unik": "98" },
+        { "nama": "Rawa Pitu", "kode_unik": "99" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Tulang Bawang Barat",
+      "kecamatan": [
+        { "nama": "Batu Putih", "kode_unik": "100" },
+        { "nama": "Gunung Agung", "kode_unik": "101" },
+        { "nama": "Gunung Terang", "kode_unik": "102" },
+        { "nama": "Lambu Kibang", "kode_unik": "103" },
+        { "nama": "Pagar Dewa", "kode_unik": "104" },
+        { "nama": "Tulang Bawang Tengah", "kode_unik": "105" },
+        { "nama": "Tulang Bawang Udik", "kode_unik": "106" },
+        { "nama": "Tumijajar", "kode_unik": "107" },
+        { "nama": "Way Kenanga", "kode_unik": "108" }
+      ]
+    },
+    {
+      "nama": "Kota Bandar Lampung",
+      "kecamatan": [
+        { "nama": "Bumi Waras", "kode_unik": "109" },
+        { "nama": "Enggal", "kode_unik": "110" },
+        { "nama": "Kedamaian", "kode_unik": "111" },
+        { "nama": "Kedaton", "kode_unik": "112" },
+        { "nama": "Kemiling", "kode_unik": "113" },
+        { "nama": "Labuhan Ratu", "kode_unik": "114" },
+        { "nama": "Langkapura", "kode_unik": "115" },
+        { "nama": "Panjang", "kode_unik": "116" },
+        { "nama": "Rajabasa", "kode_unik": "117" },
+        { "nama": "Sukabumi", "kode_unik": "118" },
+        { "nama": "Sukarame", "kode_unik": "119" },
+        { "nama": "Tanjung Karang Barat", "kode_unik": "120" },
+        { "nama": "Tanjung Karang Pusat", "kode_unik": "121" },
+        { "nama": "Tanjung Karang Timur", "kode_unik": "122" },
+        { "nama": "Tanjung Senang", "kode_unik": "123" },
+        { "nama": "Teluk Betung Barat", "kode_unik": "124" },
+        { "nama": "Teluk Betung Selatan", "kode_unik": "125" },
+        { "nama": "Teluk Betung Timur", "kode_unik": "126" },
+        { "nama": "Teluk Betung Utara", "kode_unik": "127" },
+        { "nama": "Way Halim", "kode_unik": "128" }
+      ]
+    },
+    {
+      "nama": "Kota Metro",
+      "kecamatan": [
+        { "nama": "Metro Barat", "kode_unik": "129" },
+        { "nama": "Metro Pusat", "kode_unik": "130" },
+        { "nama": "Metro Selatan", "kode_unik": "131" },
+        { "nama": "Metro Timur", "kode_unik": "132" },
+        { "nama": "Metro Utara", "kode_unik": "133" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Lampung Selatan",
+      "kecamatan": [
+        { "nama": "Bakauheni", "kode_unik": "134" },
+        { "nama": "Candipuro", "kode_unik": "135" },
+        { "nama": "Jati Agung", "kode_unik": "136" },
+        { "nama": "Kalianda", "kode_unik": "137" },
+        { "nama": "Katibung", "kode_unik": "138" },
+        { "nama": "Ketapang", "kode_unik": "139" },
+        { "nama": "Merbau Mataram", "kode_unik": "140" },
+        { "nama": "Natar", "kode_unik": "141" },
+        { "nama": "Palas", "kode_unik": "142" },
+        { "nama": "Penengahan", "kode_unik": "143" },
+        { "nama": "Rajabasa", "kode_unik": "144" },
+        { "nama": "Sidomulyo", "kode_unik": "145" },
+        { "nama": "Sragi", "kode_unik": "146" },
+        { "nama": "Tanjung Bintang", "kode_unik": "147" },
+        { "nama": "Tanjung Sari", "kode_unik": "148" },
+        { "nama": "Way Panji", "kode_unik": "149" },
+        { "nama": "Way Sulan", "kode_unik": "150" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Lampung Barat",
+      "kecamatan": [
+        { "nama": "Air Hitam", "kode_unik": "151" },
+        { "nama": "Balik Bukit", "kode_unik": "152" },
+        { "nama": "Bandar Negeri Suoh", "kode_unik": "153" },
+        { "nama": "Batu Brak", "kode_unik": "154" },
+        { "nama": "Batu Ketulis", "kode_unik": "155" },
+        { "nama": "Belalau", "kode_unik": "156" },
+        { "nama": "Gedung Surian", "kode_unik": "157" },
+        { "nama": "Kebun Tebu", "kode_unik": "158" },
+        { "nama": "Lumbok Seminung", "kode_unik": "159" },
+        { "nama": "Pagar Dewa", "kode_unik": "160" },
+        { "nama": "Sekincau", "kode_unik": "161" },
+        { "nama": "Sukau", "kode_unik": "162" },
+        { "nama": "Sumber Jaya", "kode_unik": "163" },
+        { "nama": "Suoh", "kode_unik": "164" },
+        { "nama": "Way Tenong", "kode_unik": "165" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Pesisir Barat",
+      "kecamatan": [
+        { "nama": "Bengkunat", "kode_unik": "166" },
+        { "nama": "Bengkunat Belimbing", "kode_unik": "167" },
+        { "nama": "Karya Penggawa", "kode_unik": "168" },
+        { "nama": "Krui Selatan", "kode_unik": "169" },
+        { "nama": "Lemong", "kode_unik": "170" },
+        { "nama": "Ngambur", "kode_unik": "171" },
+        { "nama": "Pesisir Selatan", "kode_unik": "172" },
+        { "nama": "Pesisir Tengah", "kode_unik": "173" },
+        { "nama": "Pesisir Utara", "kode_unik": "174" },
+        { "nama": "Pulau Pisang", "kode_unik": "175" },
+        { "nama": "Way Krui", "kode_unik": "176" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Lampung Tengah",
+      "kecamatan": [
+        { "nama": "Anak Ratu Aji", "kode_unik": "177" },
+        { "nama": "Anak Tuha", "kode_unik": "178" },
+        { "nama": "Bandar Mataram", "kode_unik": "179" },
+        { "nama": "Bandar Surabaya", "kode_unik": "180" },
+        { "nama": "Bangun Rejo", "kode_unik": "181" },
+        { "nama": "Bekri", "kode_unik": "182" },
+        { "nama": "Bumi Nabung", "kode_unik": "183" },
+        { "nama": "Bumi Ratu Nuban", "kode_unik": "184" },
+        { "nama": "Gunung Sugih", "kode_unik": "185" },
+        { "nama": "Kalirejo", "kode_unik": "186" },
+        { "nama": "Kota Gajah", "kode_unik": "187" },
+        { "nama": "Padang Ratu", "kode_unik": "188" },
+        { "nama": "Pubian", "kode_unik": "189" },
+        { "nama": "Punggur", "kode_unik": "190" },
+        { "nama": "Putra Rumbia", "kode_unik": "191" },
+        { "nama": "Rumbia", "kode_unik": "192" },
+        { "nama": "Selagai Lingga", "kode_unik": "193" },
+        { "nama": "Sendang Agung", "kode_unik": "194" },
+        { "nama": "Seputih Agung", "kode_unik": "195" },
+        { "nama": "Seputih Banyak", "kode_unik": "196" },
+        { "nama": "Seputih Mataram", "kode_unik": "197" },
+        { "nama": "Seputih Raman", "kode_unik": "198" },
+        { "nama": "Seputih Surabaya", "kode_unik": "199" },
+        { "nama": "Terbanggi Besar", "kode_unik": "200" },
+        { "nama": "Terusan Nunyai", "kode_unik": "201" },
+        { "nama": "Trimurjo", "kode_unik": "202" },
+        { "nama": "Way Pengubuan", "kode_unik": "203" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Lampung Timur",
+      "kecamatan": [
+        { "nama": "Bandar Sribawono", "kode_unik": "204" },
+        { "nama": "Batanghari", "kode_unik": "205" },
+        { "nama": "Batanghari Nuban", "kode_unik": "206" },
+        { "nama": "Braja Slebah", "kode_unik": "207" },
+        { "nama": "Bumi Agung", "kode_unik": "208" },
+        { "nama": "Gunung Pelindung", "kode_unik": "209" },
+        { "nama": "Jabung", "kode_unik": "210" },
+        { "nama": "Labuhan Maringgai", "kode_unik": "211" },
+        { "nama": "Labuhan Ratu", "kode_unik": "212" },
+        { "nama": "Marga Sekampung", "kode_unik": "213" },
+        { "nama": "Marga Tiga", "kode_unik": "214" },
+        { "nama": "Mataram Baru", "kode_unik": "215" },
+        { "nama": "Melinting", "kode_unik": "216" },
+        { "nama": "Metro Kibang", "kode_unik": "217" },
+        { "nama": "Pasir Sakti", "kode_unik": "218" },
+        { "nama": "Pekalongan", "kode_unik": "219" },
+        { "nama": "Purbolinggo", "kode_unik": "220" },
+        { "nama": "Raman Utara", "kode_unik": "221" },
+        { "nama": "Sekampung", "kode_unik": "222" },
+        { "nama": "Sekampung Udik", "kode_unik": "223" },
+        { "nama": "Sukadana", "kode_unik": "224" },
+        { "nama": "Waway Karya", "kode_unik": "225" },
+        { "nama": "Way Bungur", "kode_unik": "226" },
+        { "nama": "Way Jepara", "kode_unik": "227" }
+      ]
+    }
+  ]
+}

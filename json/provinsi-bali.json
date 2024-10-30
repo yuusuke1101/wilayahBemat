@@ -1,0 +1,107 @@
+{
+  "provinsi": "Bali",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Badung",
+      "kecamatan": [
+        { "nama": "Kuta", "kode_unik": "Q01" },
+        { "nama": "Kuta Selatan", "kode_unik": "Q02" },
+        { "nama": "Kuta Utara", "kode_unik": "Q03" },
+        { "nama": "Mengwi", "kode_unik": "Q04" },
+        { "nama": "Petang", "kode_unik": "Q05" },
+        { "nama": "Abiansemal", "kode_unik": "Q06" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Bangli",
+      "kecamatan": [
+        { "nama": "Bangli", "kode_unik": "Q07" },
+        { "nama": "Susut", "kode_unik": "Q08" },
+        { "nama": "Tembuku", "kode_unik": "Q09" },
+        { "nama": "Kintamani", "kode_unik": "Q10" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Buleleng",
+      "kecamatan": [
+        { "nama": "Buleleng", "kode_unik": "Q11" },
+        { "nama": "Banjar", "kode_unik": "Q12" },
+        { "nama": "Busungbiu", "kode_unik": "Q13" },
+        { "nama": "Gerokgak", "kode_unik": "Q14" },
+        { "nama": "Kubutambahan", "kode_unik": "Q15" },
+        { "nama": "Sawan", "kode_unik": "Q16" },
+        { "nama": "Seririt", "kode_unik": "Q17" },
+        { "nama": "Sukasada", "kode_unik": "Q18" },
+        { "nama": "Tejakula", "kode_unik": "Q19" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Gianyar",
+      "kecamatan": [
+        { "nama": "Gianyar", "kode_unik": "Q20" },
+        { "nama": "Blahbatuh", "kode_unik": "Q21" },
+        { "nama": "Payangan", "kode_unik": "Q22" },
+        { "nama": "Sukawati", "kode_unik": "Q23" },
+        { "nama": "Tampaksiring", "kode_unik": "Q24" },
+        { "nama": "Tegallalang", "kode_unik": "Q25" },
+        { "nama": "Ubud", "kode_unik": "Q26" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Jembrana",
+      "kecamatan": [
+        { "nama": "Jembrana", "kode_unik": "Q27" },
+        { "nama": "Melaya", "kode_unik": "Q28" },
+        { "nama": "Mendoyo", "kode_unik": "Q29" },
+        { "nama": "Negara", "kode_unik": "Q30" },
+        { "nama": "Pekutatan", "kode_unik": "Q31" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Karangasem",
+      "kecamatan": [
+        { "nama": "Abang", "kode_unik": "Q32" },
+        { "nama": "Bebandem", "kode_unik": "Q33" },
+        { "nama": "Karangasem", "kode_unik": "Q34" },
+        { "nama": "Kubu", "kode_unik": "Q35" },
+        { "nama": "Manggis", "kode_unik": "Q36" },
+        { "nama": "Rendang", "kode_unik": "Q37" },
+        { "nama": "Selat", "kode_unik": "Q38" },
+        { "nama": "Sidemen", "kode_unik": "Q39" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Klungkung",
+      "kecamatan": [
+        { "nama": "Banjarangkan", "kode_unik": "Q40" },
+        { "nama": "Dawan", "kode_unik": "Q41" },
+        { "nama": "Klungkung", "kode_unik": "Q42" },
+        { "nama": "Nusa Penida", "kode_unik": "Q43" }
+      ]
+    },
+    {
+      "nama": "Kota Denpasar",
+      "kecamatan": [
+        { "nama": "Denpasar Barat", "kode_unik": "Q44" },
+        { "nama": "Denpasar Selatan", "kode_unik": "Q45" },
+        { "nama": "Denpasar Timur", "kode_unik": "Q46" },
+        { "nama": "Denpasar Utara", "kode_unik": "Q47" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Tabanan",
+      "kecamatan": [
+        { "nama": "Baturiti", "kode_unik": "Q48" },
+        { "nama": "Kediri", "kode_unik": "Q49" },
+        { "nama": "Kerambitan", "kode_unik": "Q50" },
+        { "nama": "Marga", "kode_unik": "Q51" },
+        { "nama": "Penebel", "kode_unik": "Q52" },
+        { "nama": "Pupuan", "kode_unik": "Q53" },
+        { "nama": "Selemadeg", "kode_unik": "Q54" },
+        { "nama": "Selemadeg Barat", "kode_unik": "Q55" },
+        { "nama": "Selemadeg Timur", "kode_unik": "Q56" },
+        { "nama": "Tabanan", "kode_unik": "Q57" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "provinsi": "Kalimantan Selatan",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Balangan",
+      "kecamatan": [
+        { "nama": "Awayan", "kode_unik": "F01" },
+        { "nama": "Batu Mandi", "kode_unik": "F02" },
+        { "nama": "Halong", "kode_unik": "F03" },
+        { "nama": "Juai", "kode_unik": "F04" },
+        { "nama": "Lampihong", "kode_unik": "F05" },
+        { "nama": "Paringin", "kode_unik": "F06" },
+        { "nama": "Paringin Selatan", "kode_unik": "F07" },
+        { "nama": "Tebing Tinggi", "kode_unik": "F08" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Banjar",
+      "kecamatan": [
+        { "nama": "Aluh-Aluh", "kode_unik": "F09" },
+        { "nama": "Aranio", "kode_unik": "F10" },
+        { "nama": "Astambul", "kode_unik": "F11" },
+        { "nama": "Beruntung Baru", "kode_unik": "F12" },
+        { "nama": "Gambut", "kode_unik": "F13" },
+        { "nama": "Karang Intan", "kode_unik": "F14" },
+        { "nama": "Kertak Hanyar", "kode_unik": "F15" },
+        { "nama": "Mataraman", "kode_unik": "F16" },
+        { "nama": "Martapura", "kode_unik": "F17" },
+        { "nama": "Martapura Barat", "kode_unik": "F18" },
+        { "nama": "Martapura Timur", "kode_unik": "F19" },
+        { "nama": "Pengaron", "kode_unik": "F20" },
+        { "nama": "Sambung Makmur", "kode_unik": "F21" },
+        { "nama": "Simpang Empat", "kode_unik": "F22" },
+        { "nama": "Sungai Pinang", "kode_unik": "F23" },
+        { "nama": "Sungai Tabuk", "kode_unik": "F24" },
+        { "nama": "Tatah Makmur", "kode_unik": "F25" },
+        { "nama": "Telaga Bauntung", "kode_unik": "F26" },
+        { "nama": "Paramasan", "kode_unik": "F27" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Barito Kuala",
+      "kecamatan": [
+        { "nama": "Alalak", "kode_unik": "F29" },
+        { "nama": "Anjir Muara", "kode_unik": "F30" },
+        { "nama": "Anjir Pasar", "kode_unik": "F31" },
+        { "nama": "Bakumpai", "kode_unik": "F32" },
+        { "nama": "Barambai", "kode_unik": "F33" },
+        { "nama": "Belawang", "kode_unik": "F34" },
+        { "nama": "Cerbon", "kode_unik": "F35" },
+        { "nama": "Jejangkit", "kode_unik": "F36" },
+        { "nama": "Kuripan", "kode_unik": "F37" },
+        { "nama": "Mandastana", "kode_unik": "F38" },
+        { "nama": "Marabahan", "kode_unik": "F39" },
+        { "nama": "Mekarsari", "kode_unik": "F40" },
+        { "nama": "Rantau Badauh", "kode_unik": "F41" },
+        { "nama": "Tabunganen", "kode_unik": "F42" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Hulu Sungai Selatan",
+      "kecamatan": [
+        { "nama": "Angkinang", "kode_unik": "F46" },
+        { "nama": "Daha Barat", "kode_unik": "F47" },
+        { "nama": "Daha Selatan", "kode_unik": "F48" },
+        { "nama": "Daha Utara", "kode_unik": "F49" },
+        { "nama": "Kalumpang", "kode_unik": "F50" },
+        { "nama": "Kandangan", "kode_unik": "F51" },
+        { "nama": "Loksado", "kode_unik": "F52" },
+        { "nama": "Padang Batung", "kode_unik": "F53" },
+        { "nama": "Simpur", "kode_unik": "F54" },
+        { "nama": "Sungai Raya", "kode_unik": "F55" },
+        { "nama": "Telaga Langsat", "kode_unik": "F56" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Hulu Sungai Tengah",
+      "kecamatan": [
+        { "nama": "Barabai", "kode_unik": "F57" },
+        { "nama": "Batu Benawa", "kode_unik": "F58" },
+        { "nama": "Batang Alai Selatan", "kode_unik": "F59" },
+        { "nama": "Batang Alai Timur", "kode_unik": "F60" },
+        { "nama": "Batang Alai Utara", "kode_unik": "F61" },
+        { "nama": "Haruyan", "kode_unik": "F62" },
+        { "nama": "Hantakan", "kode_unik": "F63" },
+        { "nama": "Labuan Amas Selatan", "kode_unik": "F64" },
+        { "nama": "Labuan Amas Utara", "kode_unik": "F65" },
+        { "nama": "Limpasu", "kode_unik": "F66" },
+        { "nama": "Pandawan", "kode_unik": "F67" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Hulu Sungai Utara",
+      "kecamatan": [
+        { "nama": "Amuntai Selatan", "kode_unik": "F68" },
+        { "nama": "Amuntai Tengah", "kode_unik": "F69" },
+        { "nama": "Amuntai Utara", "kode_unik": "F70" },
+        { "nama": "Babirik", "kode_unik": "F71" },
+        { "nama": "Banjang", "kode_unik": "F72" },
+        { "nama": "Danau Panggang", "kode_unik": "F73" },
+        { "nama": "Haur Gading", "kode_unik": "F74" },
+        { "nama": "Paminggir", "kode_unik": "F75" },
+        { "nama": "Sungai Pandan", "kode_unik": "F76" },
+        { "nama": "Sungai Tabukan", "kode_unik": "F77" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kotabaru",
+      "kecamatan": [
+        { "nama": "Hampang", "kode_unik": "F78" },
+        { "nama": "Kelumpang Barat", "kode_unik": "F79" },
+        { "nama": "Kelumpang Hilir", "kode_unik": "F80" },
+        { "nama": "Kelumpang Hulu", "kode_unik": "F81" },
+        { "nama": "Kelumpang Selatan", "kode_unik": "F82" },
+        { "nama": "Kelumpang Tengah", "kode_unik": "F83" },
+        { "nama": "Kelumpang Utara", "kode_unik": "F84" },
+        { "nama": "Pamukan Barat", "kode_unik": "F85" },
+        { "nama": "Pamukan Selatan", "kode_unik": "F86" },
+        { "nama": "Pamukan Utara", "kode_unik": "F87" },
+        { "nama": "Pulau Laut Barat", "kode_unik": "F88" },
+        { "nama": "Pulau Laut Kepulauan", "kode_unik": "F89" },
+        { "nama": "Pulau Laut Selatan", "kode_unik": "F90" },
+        { "nama": "Pulau Laut Tanjung Selayar", "kode_unik": "F91" },
+        { "nama": "Pulau Laut Tengah", "kode_unik": "F92" },
+        { "nama": "Pulau Laut Timur", "kode_unik": "F93" },
+        { "nama": "Pulau Laut Utara", "kode_unik": "F94" },
+        { "nama": "Pulau Sebuku", "kode_unik": "F95" },
+        { "nama": "Pulau Sembilan", "kode_unik": "F96" },
+        { "nama": "Sampanahan", "kode_unik": "F97" },
+        { "nama": "Sungai Durian", "kode_unik": "F98" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Tabalong",
+      "kecamatan": [
+        { "nama": "Banua Lawas", "kode_unik": "F99" },
+        { "nama": "Bintang Ara", "kode_unik": "F100" },
+        { "nama": "Haruai", "kode_unik": "F101" },
+        { "nama": "Jaro", "kode_unik": "F102" },
+        { "nama": "Kelua", "kode_unik": "F103" },
+        { "nama": "Muara Harus", "kode_unik": "F104" },
+        { "nama": "Murung Pudak", "kode_unik": "F105" },
+        { "nama": "Pugaan", "kode_unik": "F106" },
+        { "nama": "Tanjung", "kode_unik": "F107" },
+        { "nama": "Tanta", "kode_unik": "F108" },
+        { "nama": "Upau", "kode_unik": "F109" },
+        { "nama": "Muara Uya", "kode_unik": "F110" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Tanah Bumbu",
+      "kecamatan": [
+        { "nama": "Angsana", "kode_unik": "F111" },
+        { "nama": "Batulicin", "kode_unik": "F112" },
+        { "nama": "Karang Bintang", "kode_unik": "F113" },
+        { "nama": "Kusan Hilir", "kode_unik": "F114" },
+        { "nama": "Kusan Hulu", "kode_unik": "F115" },
+        { "nama": "Kuranji", "kode_unik": "F116" },
+        { "nama": "Mantewe", "kode_unik": "F117" },
+        { "nama": "Satui", "kode_unik": "F118" },
+        { "nama": "Simpang Empat", "kode_unik": "F119" },
+        { "nama": "Sungai Loban", "kode_unik": "F120" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Tanah Laut",
+      "kecamatan": [
+        { "nama": "Bajuin", "kode_unik": "F121" },
+        { "nama": "Batu Ampar", "kode_unik": "F122" },
+        { "nama": "Bati-Bati", "kode_unik": "F123" },
+        { "nama": "Jorong", "kode_unik": "F124" },
+        { "nama": "Kintap", "kode_unik": "F125" },
+        { "nama": "Kurau", "kode_unik": "F126" },
+        { "nama": "Panyipatan", "kode_unik": "F127" },
+        { "nama": "Pelaihari", "kode_unik": "F128" },
+        { "nama": "Takisung", "kode_unik": "F129" },
+        { "nama": "Tambang Ulang", "kode_unik": "F130" },
+        { "nama": "Bumi Makmur", "kode_unik": "F131" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Tapin",
+      "kecamatan": [
+        { "nama": "Bakarangan", "kode_unik": "F132" },
+        { "nama": "Bungur", "kode_unik": "F133" },
+        { "nama": "Candi Laras Selatan", "kode_unik": "F134" },
+        { "nama": "Candi Laras Utara", "kode_unik": "F135" },
+        { "nama": "Hatungun", "kode_unik": "F136" },
+        { "nama": "Lokpaikat", "kode_unik": "F137" },
+        { "nama": "Piani", "kode_unik": "F138" },
+        { "nama": "Salam Babaris", "kode_unik": "F139" },
+        { "nama": "Tapin Selatan", "kode_unik": "F140" },
+        { "nama": "Tapin Tengah", "kode_unik": "F141" },
+        { "nama": "Tapin Utara", "kode_unik": "F142" },
+        { "nama": "Binuang", "kode_unik": "F143" }
+      ]
+    },
+    {
+      "nama": "Kota Banjarbaru",
+      "kecamatan": [
+        { "nama": "Banjarbaru Selatan", "kode_unik": "F144" },
+        { "nama": "Banjarbaru Utara", "kode_unik": "F145" },
+        { "nama": "Cempaka", "kode_unik": "F146" },
+        { "nama": "Landasan Ulin", "kode_unik": "F147" },
+        { "nama": "Liang Anggang", "kode_unik": "F148" }
+      ]
+    },
+    {
+      "nama": "Kota Banjarmasin",
+      "kecamatan": [
+        { "nama": "Banjarmasin Barat", "kode_unik": "F149" },
+        { "nama": "Banjarmasin Selatan", "kode_unik": "F150" },
+        { "nama": "Banjarmasin Tengah", "kode_unik": "F151" },
+        { "nama": "Banjarmasin Timur", "kode_unik": "F152" },
+        { "nama": "Banjarmasin Utara", "kode_unik": "F153" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "provinsi": "Kepulauan Riau",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Bintan",
+      "kecamatan": [
+        { "nama": "Bintan Pesisir", "kode_unik": "J01" },
+        { "nama": "Mantang", "kode_unik": "J02" },
+        { "nama": "Bintan Utara", "kode_unik": "J03" },
+        { "nama": "Teluk Sebong", "kode_unik": "J04" },
+        { "nama": "Sri Kuala Lobam", "kode_unik": "J05" },
+        { "nama": "Toapaya", "kode_unik": "J06" },
+        { "nama": "Gunung Kijang", "kode_unik": "J07" },
+        { "nama": "Teluk Bintan", "kode_unik": "J08" },
+        { "nama": "Bintan Timur", "kode_unik": "J09" },
+        { "nama": "Tambelan", "kode_unik": "J10" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Karimun",
+      "kecamatan": [
+        { "nama": "Karimun", "kode_unik": "J11" },
+        { "nama": "Buru", "kode_unik": "J12" },
+        { "nama": "Meral", "kode_unik": "J13" },
+        { "nama": "Tebing", "kode_unik": "J14" },
+        { "nama": "Meral Barat", "kode_unik": "J15" },
+        { "nama": "Durai", "kode_unik": "J16" },
+        { "nama": "Kundur", "kode_unik": "J17" },
+        { "nama": "Kundur Barat", "kode_unik": "J18" },
+        { "nama": "Kundur Utara", "kode_unik": "J19" },
+        { "nama": "Moro", "kode_unik": "J20" },
+        { "nama": "Ungar", "kode_unik": "J21" },
+        { "nama": "Belat", "kode_unik": "J22" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kepulauan Anambas",
+      "kecamatan": [
+        { "nama": "Jemaja", "kode_unik": "J23" },
+        { "nama": "Jemaja Timur", "kode_unik": "J24" },
+        { "nama": "Siantan", "kode_unik": "J25" },
+        { "nama": "Siantan Timur", "kode_unik": "J26" },
+        { "nama": "Siantan Selatan", "kode_unik": "J27" },
+        { "nama": "Siantan Tengah", "kode_unik": "J28" },
+        { "nama": "Palmatak", "kode_unik": "J29" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Lingga",
+      "kecamatan": [
+        { "nama": "Singkep", "kode_unik": "J30" },
+        { "nama": "Singkep Barat", "kode_unik": "J31" },
+        { "nama": "Singkep Pesisir", "kode_unik": "J32" },
+        { "nama": "Lingga", "kode_unik": "J33" },
+        { "nama": "Lingga Utara", "kode_unik": "J34" },
+        { "nama": "Lingga Timur", "kode_unik": "J35" },
+        { "nama": "Selayar", "kode_unik": "J36" },
+        { "nama": "Senayang", "kode_unik": "J37" },
+        { "nama": "Temiang Pesisir", "kode_unik": "J38" },
+        { "nama": "Katang Bidare", "kode_unik": "J39" },
+        { "nama": "Bakung Serumpun", "kode_unik": "J40" },
+        { "nama": "Posik", "kode_unik": "J41" },
+        { "nama": "Singkep Selatan", "kode_unik": "J42" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Natuna",
+      "kecamatan": [
+        { "nama": "Midai", "kode_unik": "J43" },
+        { "nama": "Bunguran Barat", "kode_unik": "J44" },
+        { "nama": "Bunguran Timur", "kode_unik": "J45" },
+        { "nama": "Bunguran Timur Laut", "kode_unik": "J46" },
+        { "nama": "Bunguran Tengah", "kode_unik": "J47" },
+        { "nama": "Bunguran Selatan", "kode_unik": "J48" },
+        { "nama": "Serasan", "kode_unik": "J49" },
+        { "nama": "Serasan Timur", "kode_unik": "J50" },
+        { "nama": "Subi", "kode_unik": "J51" },
+        { "nama": "Pulau Laut", "kode_unik": "J52" },
+        { "nama": "Pulau Tiga", "kode_unik": "J53" },
+        { "nama": "Pulau Tiga Barat", "kode_unik": "J54" },
+        { "nama": "Bunguran Utara", "kode_unik": "J55" },
+        { "nama": "Bunguran Batubi", "kode_unik": "J56" },
+        { "nama": "Bunguran Barat Laut", "kode_unik": "J57" }
+      ]
+    },
+    {
+      "nama": "Kota Batam",
+      "kecamatan": [
+        { "nama": "Sekupang", "kode_unik": "J58" },
+        { "nama": "Batu Aji", "kode_unik": "J59" },
+        { "nama": "Batu Ampar", "kode_unik": "J60" },
+        { "nama": "Nongsa", "kode_unik": "J61" },
+        { "nama": "Sagulung", "kode_unik": "J62" },
+        { "nama": "Lubuk Baja", "kode_unik": "J63" },
+        { "nama": "Batam Kota", "kode_unik": "J64" },
+        { "nama": "Sei Beduk", "kode_unik": "J65" },
+        { "nama": "Bengkong", "kode_unik": "J66" },
+        { "nama": "Galang", "kode_unik": "J67" },
+        { "nama": "Belakang Padang", "kode_unik": "J68" },
+        { "nama": "Bulang", "kode_unik": "J69" }
+      ]
+    },
+    {
+      "nama": "Kota Tanjungpinang",
+      "kecamatan": [
+        { "nama": "Bukit Bestari", "kode_unik": "J70" },
+        { "nama": "Tanjungpinang Barat", "kode_unik": "J71" },
+        { "nama": "Tanjungpinang Timur", "kode_unik": "J72" },
+        { "nama": "Tanjungpinang Kota", "kode_unik": "J73" }
+      ]
+    }
+  ]
+}

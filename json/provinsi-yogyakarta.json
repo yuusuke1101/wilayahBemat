@@ -1,0 +1,108 @@
+{
+  "provinsi": "Daerah Istimewa Yogyakarta",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Bantul",
+      "kecamatan": [
+        { "nama": "Bambanglipuro", "kode_unik": "P01" },
+        { "nama": "Banguntapan", "kode_unik": "P02" },
+        { "nama": "Bantul", "kode_unik": "P03" },
+        { "nama": "Dlingo", "kode_unik": "P04" },
+        { "nama": "Imogiri", "kode_unik": "P05" },
+        { "nama": "Jetis", "kode_unik": "P06" },
+        { "nama": "Kasihan", "kode_unik": "P07" },
+        { "nama": "Kretek", "kode_unik": "P08" },
+        { "nama": "Pajangan", "kode_unik": "P09" },
+        { "nama": "Pundong", "kode_unik": "P10" },
+        { "nama": "Pleret", "kode_unik": "P11" },
+        { "nama": "Piyungan", "kode_unik": "P12" },
+        { "nama": "Sanden", "kode_unik": "P13" },
+        { "nama": "Sedayu", "kode_unik": "P14" },
+        { "nama": "Sewon", "kode_unik": "P15" },
+        { "nama": "Srandakan", "kode_unik": "P16" },
+        { "nama": "Pandak", "kode_unik": "P17" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Gunungkidul",
+      "kecamatan": [
+        { "nama": "Gedangsari", "kode_unik": "P18" },
+        { "nama": "Girisubo", "kode_unik": "P19" },
+        { "nama": "Karangmojo", "kode_unik": "P20" },
+        { "nama": "Ngawen", "kode_unik": "P21" },
+        { "nama": "Nglipar", "kode_unik": "P22" },
+        { "nama": "Panggang", "kode_unik": "P23" },
+        { "nama": "Patuk", "kode_unik": "P24" },
+        { "nama": "Playen", "kode_unik": "P25" },
+        { "nama": "Ponjong", "kode_unik": "P26" },
+        { "nama": "Paliyan", "kode_unik": "P27" },
+        { "nama": "Purwosari", "kode_unik": "P28" },
+        { "nama": "Rongkop", "kode_unik": "P29" },
+        { "nama": "Saptosari", "kode_unik": "P30" },
+        { "nama": "Semanu", "kode_unik": "P31" },
+        { "nama": "Semin", "kode_unik": "P32" },
+        { "nama": "Tanjungsari", "kode_unik": "P33" },
+        { "nama": "Tepus", "kode_unik": "P34" },
+        { "nama": "Wonosari", "kode_unik": "P35" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kulon Progo",
+      "kecamatan": [
+        { "nama": "Galur", "kode_unik": "P36" },
+        { "nama": "Girimulyo", "kode_unik": "P37" },
+        { "nama": "Kalibawang", "kode_unik": "P38" },
+        { "nama": "Kokap", "kode_unik": "P39" },
+        { "nama": "Lendah", "kode_unik": "P40" },
+        { "nama": "Nanggulan", "kode_unik": "P41" },
+        { "nama": "Panjatan", "kode_unik": "P42" },
+        { "nama": "Pengasih", "kode_unik": "P43" },
+        { "nama": "Samigaluh", "kode_unik": "P44" },
+        { "nama": "Sentolo", "kode_unik": "P45" },
+        { "nama": "Temon", "kode_unik": "P46" },
+        { "nama": "Wates", "kode_unik": "P47" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Sleman",
+      "kecamatan": [
+        { "nama": "Berbah", "kode_unik": "P48" },
+        { "nama": "Cangkringan", "kode_unik": "P49" },
+        { "nama": "Depok", "kode_unik": "P50" },
+        { "nama": "Gamping", "kode_unik": "P51" },
+        { "nama": "Godean", "kode_unik": "P52" },
+        { "nama": "Kalasan", "kode_unik": "P53" },
+        { "nama": "Minggir", "kode_unik": "P54" },
+        { "nama": "Mlati", "kode_unik": "P55" },
+        { "nama": "Moyudan", "kode_unik": "P56" },
+        { "nama": "Ngaglik", "kode_unik": "P57" },
+        { "nama": "Ngemplak", "kode_unik": "P58" },
+        { "nama": "Pakem", "kode_unik": "P59" },
+        { "nama": "Prambanan", "kode_unik": "P60" },
+        { "nama": "Seyegan", "kode_unik": "P61" },
+        { "nama": "Sleman", "kode_unik": "P62" },
+        { "nama": "Tempel", "kode_unik": "P63" },
+        { "nama": "Turi", "kode_unik": "P64" }
+      ]
+    },
+    {
+      "nama": "Kota Yogyakarta",
+      "kecamatan": [
+        { "nama": "Danurejan", "kode_unik": "P65" },
+        { "nama": "Gedongtengen", "kode_unik": "P66" },
+        { "nama": "Gondokusuman", "kode_unik": "P67" },
+        { "nama": "Gondomanan", "kode_unik": "P68" },
+        { "nama": "Jetis", "kode_unik": "P69" },
+        { "nama": "Kotagede", "kode_unik": "P70" },
+        { "nama": "Kraton", "kode_unik": "P71" },
+        { "nama": "Mantrijeron", "kode_unik": "P72" },
+        { "nama": "Mergangsan", "kode_unik": "P73" },
+        { "nama": "Ngampilan", "kode_unik": "P74" },
+        { "nama": "Pakualaman", "kode_unik": "P75" },
+        { "nama": "Tegalrejo", "kode_unik": "P76" },
+        { "nama": "Umbulharjo", "kode_unik": "P77" },
+        { "nama": "Wirobrajan", "kode_unik": "P78" }
+      ]
+    }
+  ]
+}

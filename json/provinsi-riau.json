@@ -1,0 +1,236 @@
+{
+  "provinsi": "Riau",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Bengkalis",
+      "kecamatan": [
+        { "nama": "Bengkalis", "kode_unik": "A01" },
+        { "nama": "Bantan", "kode_unik": "A02" },
+        { "nama": "Bukit Batu", "kode_unik": "A03" },
+        { "nama": "Siak Kecil", "kode_unik": "A04" },
+        { "nama": "Rupat", "kode_unik": "A05" },
+        { "nama": "Rupat Utara", "kode_unik": "A06" },
+        { "nama": "Bandar Laksamana", "kode_unik": "A07" },
+        { "nama": "Pinggir", "kode_unik": "A08" },
+        { "nama": "Talang Muandau", "kode_unik": "A09" },
+        { "nama": "Bathin Solapan", "kode_unik": "A10" },
+        { "nama": "Mandau", "kode_unik": "A11" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Indragiri Hilir",
+      "kecamatan": [
+        { "nama": "Tembilahan", "kode_unik": "A12" },
+        { "nama": "Tembilahan Hulu", "kode_unik": "A13" },
+        { "nama": "Batang Tuaka", "kode_unik": "A14" },
+        { "nama": "Gaung Anak Serka", "kode_unik": "A15" },
+        { "nama": "Gaung", "kode_unik": "A16" },
+        { "nama": "Mandah", "kode_unik": "A17" },
+        { "nama": "Concong", "kode_unik": "A18" },
+        { "nama": "Enok", "kode_unik": "A19" },
+        { "nama": "Kuala Indragiri", "kode_unik": "A20" },
+        { "nama": "Kemuning", "kode_unik": "A21" },
+        { "nama": "Kateman", "kode_unik": "A22" },
+        { "nama": "Pelangiran", "kode_unik": "A23" },
+        { "nama": "Teluk Belengkong", "kode_unik": "A24" },
+        { "nama": "Pulau Burung", "kode_unik": "A25" },
+        { "nama": "Reteh", "kode_unik": "A26" },
+        { "nama": "Sungai Batang", "kode_unik": "A27" },
+        { "nama": "Tanah Merah", "kode_unik": "A28" },
+        { "nama": "Kempas", "kode_unik": "A29" },
+        { "nama": "Tempuling", "kode_unik": "A30" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Indragiri Hulu",
+      "kecamatan": [
+        { "nama": "Rengat", "kode_unik": "A31" },
+        { "nama": "Rengat Barat", "kode_unik": "A32" },
+        { "nama": "Pasir Penyu", "kode_unik": "A33" },
+        { "nama": "Lirik", "kode_unik": "A34" },
+        { "nama": "Sungai Lala", "kode_unik": "A35" },
+        { "nama": "Lubuk Batu Jaya", "kode_unik": "A36" },
+        { "nama": "Kelayang", "kode_unik": "A37" },
+        { "nama": "Rakit Kulim", "kode_unik": "A38" },
+        { "nama": "Seberida", "kode_unik": "A39" },
+        { "nama": "Batang Gansal", "kode_unik": "A40" },
+        { "nama": "Batang Cenaku", "kode_unik": "A41" },
+        { "nama": "Peranap", "kode_unik": "A42" },
+        { "nama": "Batang Peranap", "kode_unik": "A43" },
+        { "nama": "Kuala Cenaku", "kode_unik": "A44" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kampar",
+      "kecamatan": [
+        { "nama": "Bangkinang Kota", "kode_unik": "A45" },
+        { "nama": "Bangkinang", "kode_unik": "A46" },
+        { "nama": "Salo", "kode_unik": "A47" },
+        { "nama": "Tapung", "kode_unik": "A48" },
+        { "nama": "Tapung Hulu", "kode_unik": "A49" },
+        { "nama": "Tapung Hilir", "kode_unik": "A50" },
+        { "nama": "Siak Hulu", "kode_unik": "A51" },
+        { "nama": "Kampar Kiri", "kode_unik": "A52" },
+        { "nama": "Kampar Kiri Hulu", "kode_unik": "A53" },
+        { "nama": "Kampar Kiri Hilir", "kode_unik": "A54" },
+        { "nama": "Kampar Kiri Tengah", "kode_unik": "A55" },
+        { "nama": "Rumbio Jaya", "kode_unik": "A56" },
+        { "nama": "Tambang", "kode_unik": "A57" },
+        { "nama": "Kampa", "kode_unik": "A58" },
+        { "nama": "Kuok", "kode_unik": "A59" },
+        { "nama": "XIII Koto Kampar", "kode_unik": "A60" },
+        { "nama": "Gunung Sahilan", "kode_unik": "A61" },
+        { "nama": "Perhentian Raja", "kode_unik": "A62" },
+        { "nama": "Kampar Utara", "kode_unik": "A63" },
+        { "nama": "Kampar Timur", "kode_unik": "A64" },
+        { "nama": "Kampar", "kode_unik": "A65" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kepulauan Meranti",
+      "kecamatan": [
+        { "nama": "Tebing Tinggi", "kode_unik": "A66" },
+        { "nama": "Tebing Tinggi Barat", "kode_unik": "A67" },
+        { "nama": "Tebing Tinggi Timur", "kode_unik": "A68" },
+        { "nama": "Rangsang", "kode_unik": "A69" },
+        { "nama": "Rangsang Barat", "kode_unik": "A70" },
+        { "nama": "Rangsang Pesisir", "kode_unik": "A71" },
+        { "nama": "Merbau", "kode_unik": "A72" },
+        { "nama": "Pulau Merbau", "kode_unik": "A73" },
+        { "nama": "Tasik Putripuyu", "kode_unik": "A74" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kuantan Singingi",
+      "kecamatan": [
+        { "nama": "Kuantan Mudik", "kode_unik": "A75" },
+        { "nama": "Hulu Kuantan", "kode_unik": "A76" },
+        { "nama": "Gunung Toar", "kode_unik": "A77" },
+        { "nama": "Pucuk Rantau", "kode_unik": "A78" },
+        { "nama": "Kuantan Tengah", "kode_unik": "A79" },
+        { "nama": "Sentajo Raya", "kode_unik": "A80" },
+        { "nama": "Benai", "kode_unik": "A81" },
+        { "nama": "Kuantan Hilir", "kode_unik": "A82" },
+        { "nama": "Kuantan Hilir Seberang", "kode_unik": "A83" },
+        { "nama": "Inuman", "kode_unik": "A84" },
+        { "nama": "Cerenti", "kode_unik": "A85" },
+        { "nama": "Pangean", "kode_unik": "A86" },
+        { "nama": "Logas Tanah Darat", "kode_unik": "A87" },
+        { "nama": "Singingi", "kode_unik": "A88" },
+        { "nama": "Singingi Hilir", "kode_unik": "A89" }
+      ]
+    },
+     {
+      "nama": "Kabupaten Pelalawan",
+      "kecamatan": [
+        { "nama": "Pangkalan Kerinci", "kode_unik": "A90" },
+        { "nama": "Pangkalan Kuras", "kode_unik": "A91" },
+        { "nama": "Pangkalan Lesung", "kode_unik": "A92" },
+        { "nama": "Pelalawan", "kode_unik": "A93" },
+        { "nama": "Bunut", "kode_unik": "A94" },
+        { "nama": "Bandar Petalangan", "kode_unik": "A95" },
+        { "nama": "Kuala Kampar", "kode_unik": "A96" },
+        { "nama": "Teluk Meranti", "kode_unik": "A97" },
+        { "nama": "Langgam", "kode_unik": "A98" },
+        { "nama": "Ukui", "kode_unik": "A99" },
+        { "nama": "Kerumutan", "kode_unik": "A100" },
+        { "nama": "Bandar Seikijang", "kode_unik": "A101" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Rokan Hilir",
+      "kecamatan": [
+        { "nama": "Bangko", "kode_unik": "A102" },
+        { "nama": "Bangko Pusako", "kode_unik": "A103" },
+        { "nama": "Pekaitan", "kode_unik": "A104" },
+        { "nama": "Rimba Melintang", "kode_unik": "A105" },
+        { "nama": "Tanah Putih", "kode_unik": "A106" },
+        { "nama": "Tanah Putih Tanjung Melawan", "kode_unik": "A107" },
+        { "nama": "Rantau Kopar", "kode_unik": "A108" },
+        { "nama": "Kubu", "kode_unik": "A109" },
+        { "nama": "Kubu Babussalam", "kode_unik": "A110" },
+        { "nama": "Sinaboi", "kode_unik": "A111" },
+        { "nama": "Batu Hampar", "kode_unik": "A112" },
+        { "nama": "Pasir Limau Kapas", "kode_unik": "A113" },
+        { "nama": "Pujud", "kode_unik": "A114" },
+        { "nama": "Simpang Kanan", "kode_unik": "A115" },
+        { "nama": "Bagan Sinembah", "kode_unik": "A116" },
+        { "nama": "Bagan Sinembah Raya", "kode_unik": "A117" },
+        { "nama": "Balai Jaya", "kode_unik": "A118" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Rokan Hulu",
+      "kecamatan": [
+        { "nama": "Rambah", "kode_unik": "A119" },
+        { "nama": "Rambah Hilir", "kode_unik": "A120" },
+        { "nama": "Kepenuhan", "kode_unik": "A121" },
+        { "nama": "Kepenuhan Hulu", "kode_unik": "A122" },
+        { "nama": "Kunto Darussalam", "kode_unik": "A123" },
+        { "nama": "Pagaran Tapah Darussalam", "kode_unik": "A124" },
+        { "nama": "Bonai Darussalam", "kode_unik": "A125" },
+        { "nama": "Tambusai", "kode_unik": "A126" },
+        { "nama": "Tambusai Utara", "kode_unik": "A127" },
+        { "nama": "Rokan IV Koto", "kode_unik": "A128" },
+        { "nama": "Ujung Batu", "kode_unik": "A129" },
+        { "nama": "Tandun", "kode_unik": "A130" },
+        { "nama": "Kabun", "kode_unik": "A131" },
+        { "nama": "Pendalian IV Koto", "kode_unik": "A132" },
+        { "nama": "Bangun Purba", "kode_unik": "A133" },
+        { "nama": "Rambah Samo", "kode_unik": "A134" },
+        { "nama": "Rambah Baru", "kode_unik": "A135" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Siak",
+      "kecamatan": [
+        { "nama": "Siak", "kode_unik": "A136" },
+        { "nama": "Mempura", "kode_unik": "A137" },
+        { "nama": "Sungai Apit", "kode_unik": "A138" },
+        { "nama": "Sungai Mandau", "kode_unik": "A139" },
+        { "nama": "Bungaraya", "kode_unik": "A140" },
+        { "nama": "Sabak Auh", "kode_unik": "A141" },
+        { "nama": "Pusako", "kode_unik": "A142" },
+        { "nama": "Koto Gasib", "kode_unik": "A143" },
+        { "nama": "Tualang", "kode_unik": "A144" },
+        { "nama": "Dayun", "kode_unik": "A145" },
+        { "nama": "Lubuk Dalam", "kode_unik": "A146" },
+        { "nama": "Kerinci Kanan", "kode_unik": "A147" },
+        { "nama": "Minas", "kode_unik": "A148" },
+        { "nama": "Kandis", "kode_unik": "A149" }
+      ]
+    },
+    {
+      "nama": "Kota Pekanbaru",
+      "kecamatan": [
+        { "nama": "Pekanbaru Kota", "kode_unik": "A150" },
+        { "nama": "Sukajadi", "kode_unik": "A151" },
+        { "nama": "Sail", "kode_unik": "A152" },
+        { "nama": "Senapelan", "kode_unik": "A153" },
+        { "nama": "Rumbai", "kode_unik": "A154" },
+        { "nama": "Rumbai Barat", "kode_unik": "A155" },
+        { "nama": "Rumbai Timur", "kode_unik": "A156" },
+        { "nama": "Bukit Raya", "kode_unik": "A157" },
+        { "nama": "Lima Puluh", "kode_unik": "A158" },
+        { "nama": "Marpoyan Damai", "kode_unik": "A159" },
+        { "nama": "Payung Sekaki", "kode_unik": "A160" },
+        { "nama": "Tenayan Raya", "kode_unik": "A161" },
+        { "nama": "Tampan", "kode_unik": "A162" },
+        { "nama": "Kulim", "kode_unik": "A163" },
+        { "nama": "Binawidya", "kode_unik": "A164" }
+      ]
+    },
+    {
+      "nama": "Kota Dumai",
+      "kecamatan": [
+        { "nama": "Dumai Kota", "kode_unik": "A165" },
+        { "nama": "Dumai Timur", "kode_unik": "A166" },
+        { "nama": "Dumai Barat", "kode_unik": "A167" },
+        { "nama": "Dumai Selatan", "kode_unik": "A168" },
+        { "nama": "Bukit Kapur", "kode_unik": "A169" },
+        { "nama": "Medang Kampai", "kode_unik": "A170" },
+        { "nama": "Sungai Sembilan", "kode_unik": "A171" }
+      ]
+    }
+  ]
+}

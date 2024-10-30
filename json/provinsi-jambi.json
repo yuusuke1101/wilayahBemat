@@ -1,0 +1,201 @@
+{
+  "provinsi": "Jambi",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Batanghari",
+      "kecamatan": [
+        { "nama": "Bajubang", "kode_unik": "C01" },
+        { "nama": "Bathin XXIV", "kode_unik": "C02" },
+        { "nama": "Maro Sebo Ilir", "kode_unik": "C03" },
+        { "nama": "Maro Sebo Ulu", "kode_unik": "C04" },
+        { "nama": "Muara Bulian", "kode_unik": "C05" },
+        { "nama": "Mersam", "kode_unik": "C06" },
+        { "nama": "Pemayung", "kode_unik": "C07" },
+        { "nama": "Muara Tembesi", "kode_unik": "C08" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Bungo",
+      "kecamatan": [
+        { "nama": "Batin II Babeko", "kode_unik": "C09" },
+        { "nama": "Bathin III", "kode_unik": "C10" },
+        { "nama": "Bathin III Ulu", "kode_unik": "C11" },
+        { "nama": "Jujuhan", "kode_unik": "C12" },
+        { "nama": "Jujuhan Ilir", "kode_unik": "C13" },
+        { "nama": "Limbur Lubuk Mengkuang", "kode_unik": "C14" },
+        { "nama": "Muko-Muko Bathin VII", "kode_unik": "C15" },
+        { "nama": "Pasar Muara Bungo", "kode_unik": "C16" },
+        { "nama": "Pelepat", "kode_unik": "C17" },
+        { "nama": "Pelepat Ilir", "kode_unik": "C18" },
+        { "nama": "Rantau Pandan", "kode_unik": "C19" },
+        { "nama": "Rimbo Tengah", "kode_unik": "C20" },
+        { "nama": "Tanah Sepenggal", "kode_unik": "C21" },
+        { "nama": "Tanah Sepenggal Lintas", "kode_unik": "C22" },
+        { "nama": "Tanah Tumbuh", "kode_unik": "C23" },
+        { "nama": "Bathin II Pelayang", "kode_unik": "C24" },
+        { "nama": "Bungo Dani", "kode_unik": "C141" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kerinci",
+      "kecamatan": [
+        { "nama": "Air Hangat", "kode_unik": "C25" },
+        { "nama": "Air Hangat Barat", "kode_unik": "C26" },
+        { "nama": "Air Hangat Timur", "kode_unik": "C27" },
+        { "nama": "Batang Merangin", "kode_unik": "C28" },
+        { "nama": "Bukit Kerman", "kode_unik": "C29" },
+        { "nama": "Danau Kerinci", "kode_unik": "C30" },
+        { "nama": "Depati Tujuh", "kode_unik": "C31" },
+        { "nama": "Gunung Kerinci", "kode_unik": "C32" },
+        { "nama": "Gunung Raya", "kode_unik": "C33" },
+        { "nama": "Kayu Aro", "kode_unik": "C34" },
+        { "nama": "Kayu Aro Barat", "kode_unik": "C35" },
+        { "nama": "Keliling Danau", "kode_unik": "C36" },
+        { "nama": "Sitinjau Laut", "kode_unik": "C37" },
+        { "nama": "Siulak", "kode_unik": "C38" },
+        { "nama": "Siulak Mukai", "kode_unik": "C39" },
+        { "nama": "Gunung Tujuh", "kode_unik": "C40" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Merangin",
+      "kecamatan": [
+        { "nama": "Bangko", "kode_unik": "C41" },
+        { "nama": "Bangko Barat", "kode_unik": "C42" },
+        { "nama": "Batang Masumai", "kode_unik": "C43" },
+        { "nama": "Jangkat", "kode_unik": "C44" },
+        { "nama": "Jangkat Timur", "kode_unik": "C45" },
+        { "nama": "Lembah Masurai", "kode_unik": "C46" },
+        { "nama": "Muara Siau", "kode_unik": "C47" },
+        { "nama": "Nalo Tantan", "kode_unik": "C48" },
+        { "nama": "Pamenang", "kode_unik": "C49" },
+        { "nama": "Pamenang Barat", "kode_unik": "C50" },
+        { "nama": "Pamenang Selatan", "kode_unik": "C51" },
+        { "nama": "Pangkalan Jambu", "kode_unik": "C52" },
+        { "nama": "Renah Pembarap", "kode_unik": "C53" },
+        { "nama": "Renah Pemenang", "kode_unik": "C54" },
+        { "nama": "Sungai Manau", "kode_unik": "C55" },
+        { "nama": "Tabir", "kode_unik": "C56" },
+        { "nama": "Tabir Barat", "kode_unik": "C57" },
+        { "nama": "Tabir Ilir", "kode_unik": "C58" },
+        { "nama": "Tabir Lintas", "kode_unik": "C59" },
+        { "nama": "Tabir Selatan", "kode_unik": "C60" },
+        { "nama": "Tabir Timur", "kode_unik": "C61" },
+        { "nama": "Tabir Ulu", "kode_unik": "C62" },
+        { "nama": "Tiang Pumpung", "kode_unik": "C63" },
+        { "nama": "Tabir Utara", "kode_unik": "C64" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Muaro Jambi",
+      "kecamatan": [
+        { "nama": "Bahar Selatan", "kode_unik": "C65" },
+        { "nama": "Bahar Utara", "kode_unik": "C66" },
+        { "nama": "Jambi Luar Kota", "kode_unik": "C67" },
+        { "nama": "Kumpeh", "kode_unik": "C68" },
+        { "nama": "Kumpeh Ulu", "kode_unik": "C69" },
+        { "nama": "Maro Sebo", "kode_unik": "C70" },
+        { "nama": "Mestong", "kode_unik": "C71" },
+        { "nama": "Sekernan", "kode_unik": "C72" },
+        { "nama": "Sungai Bahar", "kode_unik": "C73" },
+        { "nama": "Sungai Gelam", "kode_unik": "C74" },
+        { "nama": "Taman Rajo", "kode_unik": "C75" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Sarolangun",
+      "kecamatan": [
+        { "nama": "Air Hitam", "kode_unik": "C76" },
+        { "nama": "Bathin VIII", "kode_unik": "C77" },
+        { "nama": "Cermin Nan Gedang", "kode_unik": "C78" },
+        { "nama": "Limun", "kode_unik": "C79" },
+        { "nama": "Mandiangin", "kode_unik": "C80" },
+        { "nama": "Pauh", "kode_unik": "C81" },
+        { "nama": "Pelawan", "kode_unik": "C82" },
+        { "nama": "Sarolangun", "kode_unik": "C83" },
+        { "nama": "Singkut", "kode_unik": "C84" },
+        { "nama": "Batang Asai", "kode_unik": "C85" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Tanjung Jabung Barat",
+      "kecamatan": [
+        { "nama": "Batang Asam", "kode_unik": "C86" },
+        { "nama": "Bram Itam", "kode_unik": "C87" },
+        { "nama": "Kuala Betara", "kode_unik": "C88" },
+        { "nama": "Merlung", "kode_unik": "C89" },
+        { "nama": "Muara Papalik", "kode_unik": "C90" },
+        { "nama": "Pengabuan", "kode_unik": "C91" },
+        { "nama": "Renah Mendaluh", "kode_unik": "C92" },
+        { "nama": "Seberang Kota", "kode_unik": "C93" },
+        { "nama": "Senyerang", "kode_unik": "C94" },
+        { "nama": "Tebing Tinggi", "kode_unik": "C95" },
+        { "nama": "Tungkal Ilir", "kode_unik": "C96" },
+        { "nama": "Tungkal Ulu", "kode_unik": "C97" },
+        { "nama": "Betara", "kode_unik": "C98" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Tanjung Jabung Timur",
+      "kecamatan": [
+        { "nama": "Berbak", "kode_unik": "C99" },
+        { "nama": "Dendang", "kode_unik": "C100" },
+        { "nama": "Geragai", "kode_unik": "C101" },
+        { "nama": "Kuala Jambi", "kode_unik": "C102" },
+        { "nama": "Mendahara", "kode_unik": "C103" },
+        { "nama": "Mendahara Ulu", "kode_unik": "C104" },
+        { "nama": "Muara Sabak Barat", "kode_unik": "C105" },
+        { "nama": "Muara Sabak Timur", "kode_unik": "C106" },
+        { "nama": "Nipah Panjang", "kode_unik": "C107" },
+        { "nama": "Rantau Rasau", "kode_unik": "C108" },
+        { "nama": "Sadu", "kode_unik": "C109" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Tebo",
+      "kecamatan": [
+        { "nama": "Muara Tabir", "kode_unik": "C110" },
+        { "nama": "Rimbo Bujang", "kode_unik": "C111" },
+        { "nama": "Rimbo Ilir", "kode_unik": "C112" },
+        { "nama": "Rimbo Ulu", "kode_unik": "C113" },
+        { "nama": "Serai Serumpun", "kode_unik": "C114" },
+        { "nama": "Sumay", "kode_unik": "C115" },
+        { "nama": "Tebo Ilir", "kode_unik": "C116" },
+        { "nama": "Tebo Tengah", "kode_unik": "C117" },
+        { "nama": "Tebo Ulu", "kode_unik": "C118" },
+        { "nama": "Tengah Ilir", "kode_unik": "C119" },
+        { "nama": "VII Koto", "kode_unik": "C120" },
+        { "nama": "VII Koto Ilir", "kode_unik": "C121" }
+      ]
+    },
+    {
+      "nama": "Kota Jambi",
+      "kecamatan": [
+        { "nama": "Alam Barajo", "kode_unik": "C122" },
+        { "nama": "Danau Sipin", "kode_unik": "C123" },
+        { "nama": "Danau Teluk", "kode_unik": "C124" },
+        { "nama": "Jambi Selatan", "kode_unik": "C125" },
+        { "nama": "Jambi Timur", "kode_unik": "C126" },
+        { "nama": "Jelutung", "kode_unik": "C127" },
+        { "nama": "Kota Baru", "kode_unik": "C128" },
+        { "nama": "Pasar Jambi", "kode_unik": "C129" },
+        { "nama": "Pelayangan", "kode_unik": "C130" },
+        { "nama": "Telanaipura", "kode_unik": "C131" },
+        { "nama": "Paal Merah", "kode_unik": "C132" }
+      ]
+    },
+    {
+      "nama": "Kota Sungai Penuh",
+      "kecamatan": [
+        { "nama": "Hamparan Rawang", "kode_unik": "C133" },
+        { "nama": "Koto Baru", "kode_unik": "C134" },
+        { "nama": "Kumun Debai", "kode_unik": "C135" },
+        { "nama": "Pesisir Bukit", "kode_unik": "C136" },
+        { "nama": "Pondok Tinggi", "kode_unik": "C137" },
+        { "nama": "Sungai Bungkal", "kode_unik": "C138" },
+        { "nama": "Sungai Penuh", "kode_unik": "C139" },
+        { "nama": "Tanah Kampung", "kode_unik": "C140" }
+      ]
+    }
+  ]
+}

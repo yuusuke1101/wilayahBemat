@@ -1,0 +1,211 @@
+{
+  "provinsi": "Kalimantan Tengah",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Barito Selatan",
+      "kecamatan": [
+        { "nama": "Dusun Hilir", "kode_unik": "S01" },
+        { "nama": "Dusun Selatan", "kode_unik": "S02" },
+        { "nama": "Dusun Utara", "kode_unik": "S03" },
+        { "nama": "Gunung Bintang Awai", "kode_unik": "S04" },
+        { "nama": "Karau Kuala", "kode_unik": "S05" },
+        { "nama": "Jenamas", "kode_unik": "S06" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Barito Timur",
+      "kecamatan": [
+        { "nama": "Awang", "kode_unik": "S07" },
+        { "nama": "Benua Lima", "kode_unik": "S08" },
+        { "nama": "Dusun Tengah", "kode_unik": "S09" },
+        { "nama": "Dusun Timur", "kode_unik": "S10" },
+        { "nama": "Karusen Janang", "kode_unik": "S11" },
+        { "nama": "Paju Epat", "kode_unik": "S12" },
+        { "nama": "Paku", "kode_unik": "S13" },
+        { "nama": "Patangkep Tutui", "kode_unik": "S14" },
+        { "nama": "Raren Batuah", "kode_unik": "S15" },
+        { "nama": "Pematang Karau", "kode_unik": "S16" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Barito Utara",
+      "kecamatan": [
+        { "nama": "Gunung Purei", "kode_unik": "S17" },
+        { "nama": "Gunung Timang", "kode_unik": "S18" },
+        { "nama": "Lahei", "kode_unik": "S19" },
+        { "nama": "Lahei Barat", "kode_unik": "S20" },
+        { "nama": "Montallat", "kode_unik": "S21" },
+        { "nama": "Teweh Baru", "kode_unik": "S22" },
+        { "nama": "Teweh Selatan", "kode_unik": "S23" },
+        { "nama": "Teweh Tengah", "kode_unik": "S24" },
+        { "nama": "Teweh Timur", "kode_unik": "S25" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Gunung Mas",
+      "kecamatan": [
+        { "nama": "Damang Batu", "kode_unik": "S26" },
+        { "nama": "Kahayan Hulu Utara", "kode_unik": "S27" },
+        { "nama": "Kurun", "kode_unik": "S28" },
+        { "nama": "Manuhing", "kode_unik": "S29" },
+        { "nama": "Manuhing Raya", "kode_unik": "S30" },
+        { "nama": "Mihing Raya", "kode_unik": "S31" },
+        { "nama": "Miri Manasa", "kode_unik": "S32" },
+        { "nama": "Rungan", "kode_unik": "S33" },
+        { "nama": "Rungan Barat", "kode_unik": "S34" },
+        { "nama": "Rungan Hulu", "kode_unik": "S35" },
+        { "nama": "Sepang", "kode_unik": "S36" },
+        { "nama": "Tewah", "kode_unik": "S37" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kapuas",
+      "kecamatan": [
+        { "nama": "Basarang", "kode_unik": "S38" },
+        { "nama": "Bataguh", "kode_unik": "S39" },
+        { "nama": "Dadahup", "kode_unik": "S40" },
+        { "nama": "Kapuas Barat", "kode_unik": "S41" },
+        { "nama": "Kapuas Hilir", "kode_unik": "S42" },
+        { "nama": "Kapuas Hulu", "kode_unik": "S43" },
+        { "nama": "Kapuas Kuala", "kode_unik": "S44" },
+        { "nama": "Kapuas Murung", "kode_unik": "S45" },
+        { "nama": "Kapuas Tengah", "kode_unik": "S46" },
+        { "nama": "Kapuas Timur", "kode_unik": "S47" },
+        { "nama": "Mandau Talawang", "kode_unik": "S48" },
+        { "nama": "Mantangai", "kode_unik": "S49" },
+        { "nama": "Pasak Talawang", "kode_unik": "S50" },
+        { "nama": "Pulau Petak", "kode_unik": "S51" },
+        { "nama": "Selat", "kode_unik": "S52" },
+        { "nama": "Tamban Catur", "kode_unik": "S53" },
+        { "nama": "Timpah", "kode_unik": "S54" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Katingan",
+      "kecamatan": [
+        { "nama": "Kamipang", "kode_unik": "S55" },
+        { "nama": "Katingan Hilir", "kode_unik": "S56" },
+        { "nama": "Katingan Hulu", "kode_unik": "S57" },
+        { "nama": "Katingan Kuala", "kode_unik": "S58" },
+        { "nama": "Katingan Tengah", "kode_unik": "S59" },
+        { "nama": "Marikit", "kode_unik": "S60" },
+        { "nama": "Mendawai", "kode_unik": "S61" },
+        { "nama": "Petak Malai", "kode_unik": "S62" },
+        { "nama": "Pulau Malan", "kode_unik": "S63" },
+        { "nama": "Sanaman Mantikei", "kode_unik": "S64" },
+        { "nama": "Tasik Payawan", "kode_unik": "S65" },
+        { "nama": "Tewang Sangalang Garing", "kode_unik": "S66" },
+        { "nama": "Bukit Raya", "kode_unik": "S67" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kotawaringin Barat",
+      "kecamatan": [
+        { "nama": "Arut Selatan", "kode_unik": "S68" },
+        { "nama": "Arut Utara", "kode_unik": "S69" },
+        { "nama": "Kotawaringin Lama", "kode_unik": "S70" },
+        { "nama": "Kumai", "kode_unik": "S71" },
+        { "nama": "Pangkalan Banteng", "kode_unik": "S72" },
+        { "nama": "Pangkalan Lada", "kode_unik": "S73" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kotawaringin Timur",
+      "kecamatan": [
+        { "nama": "Antang Kalang", "kode_unik": "S74" },
+        { "nama": "Baamang", "kode_unik": "S75" },
+        { "nama": "Bukit Santuai", "kode_unik": "S76" },
+        { "nama": "Cempaga", "kode_unik": "S77" },
+        { "nama": "Cempaga Hulu", "kode_unik": "S78" },
+        { "nama": "Kota Besi", "kode_unik": "S79" },
+        { "nama": "Mentawa Baru Ketapang", "kode_unik": "S80" },
+        { "nama": "Mentaya Hilir Selatan", "kode_unik": "S81" },
+        { "nama": "Mentaya Hilir Utara", "kode_unik": "S82" },
+        { "nama": "Mentaya Hulu", "kode_unik": "S83" },
+        { "nama": "Parenggean", "kode_unik": "S84" },
+        { "nama": "Pulau Hanaut", "kode_unik": "S85" },
+        { "nama": "Seranau", "kode_unik": "S86" },
+        { "nama": "Telaga Antang", "kode_unik": "S87" },
+        { "nama": "Telawang", "kode_unik": "S88" },
+        { "nama": "Tualan Hulu", "kode_unik": "S89" },
+        { "nama": "Teluk Sampit", "kode_unik": "S90" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Lamandau",
+      "kecamatan": [
+        { "nama": "Batang Kawa", "kode_unik": "S91" },
+        { "nama": "Belantikan Raya", "kode_unik": "S92" },
+        { "nama": "Bulik", "kode_unik": "S93" },
+        { "nama": "Bulik Timur", "kode_unik": "S94" },
+        { "nama": "Delang", "kode_unik": "S95" },
+        { "nama": "Lamandau", "kode_unik": "S96" },
+        { "nama": "Menthobi Raya", "kode_unik": "S97" },
+        { "nama": "Sematu Jaya", "kode_unik": "S98" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Murung Raya",
+      "kecamatan": [
+        { "nama": "Barito Tuhup Raya", "kode_unik": "S99" },
+        { "nama": "Laung Tuhup", "kode_unik": "S100" },
+        { "nama": "Murung", "kode_unik": "S101" },
+        { "nama": "Permata Intan", "kode_unik": "S102" },
+        { "nama": "Sumber Barito", "kode_unik": "S103" },
+        { "nama": "Seribu Riam", "kode_unik": "S104" },
+        { "nama": "Sungai Babuat", "kode_unik": "S105" },
+        { "nama": "Tanah Siang", "kode_unik": "S106" },
+        { "nama": "Tanah Siang Selatan", "kode_unik": "S107" },
+        { "nama": "Uut Murung", "kode_unik": "S108" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Pulang Pisau",
+      "kecamatan": [
+        { "nama": "Banama Tingang", "kode_unik": "S109" },
+        { "nama": "Kahayan Hilir", "kode_unik": "S110" },
+        { "nama": "Kahayan Kuala", "kode_unik": "S111" },
+        { "nama": "Kahayan Tengah", "kode_unik": "S112" },
+        { "nama": "Maliku", "kode_unik": "S113" },
+        { "nama": "Pandih Batu", "kode_unik": "S114" },
+        { "nama": "Sebangau Kuala", "kode_unik": "S115" },
+        { "nama": "Jabiren Raya", "kode_unik": "S116" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Seruyan",
+      "kecamatan": [
+        { "nama": "Batu Ampar", "kode_unik": "S117" },
+        { "nama": "Danau Sembuluh", "kode_unik": "S118" },
+        { "nama": "Hanau", "kode_unik": "S119" },
+        { "nama": "Seruyan Hilir", "kode_unik": "S120" },
+        { "nama": "Seruyan Hilir Timur", "kode_unik": "S121" },
+        { "nama": "Seruyan Hulu", "kode_unik": "S122" },
+        { "nama": "Seruyan Raya", "kode_unik": "S123" },
+        { "nama": "Seruyan Tengah", "kode_unik": "S124" },
+        { "nama": "Suling Tambun", "kode_unik": "S125" },
+        { "nama": "Danau Seluluk", "kode_unik": "S126" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Sukamara",
+      "kecamatan": [
+        { "nama": "Balai Riam", "kode_unik": "S127" },
+        { "nama": "Jelai", "kode_unik": "S128" },
+        { "nama": "Pantai Lunci", "kode_unik": "S129" },
+        { "nama": "Permata Kecubung", "kode_unik": "S130" },
+        { "nama": "Sukamara", "kode_unik": "S131" }
+      ]
+    },
+    {
+      "nama": "Kota Palangka Raya",
+      "kecamatan": [
+        { "nama": "Bukit Batu", "kode_unik": "S132" },
+        { "nama": "Jekan Raya", "kode_unik": "S133" },
+        { "nama": "Pahandut", "kode_unik": "S134" },
+        { "nama": "Rakumpit", "kode_unik": "S135" },
+        { "nama": "Sebangau", "kode_unik": "S136" }
+      ]
+    }
+  ]
+}

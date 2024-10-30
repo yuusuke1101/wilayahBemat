@@ -1,0 +1,332 @@
+{
+  "provinsi": "Sumatera Selatan",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Banyuasin",
+      "kecamatan": [
+        { "nama": "Air Kumbang", "kode_unik": "D001" },
+        { "nama": "Air Salek", "kode_unik": "D002" },
+        { "nama": "Banyuasin I", "kode_unik": "D003" },
+        { "nama": "Banyuasin II", "kode_unik": "D004" },
+        { "nama": "Banyuasin III", "kode_unik": "D005" },
+        { "nama": "Betung", "kode_unik": "D006" },
+        { "nama": "Makarti Jaya", "kode_unik": "D007" },
+        { "nama": "Muara Padang", "kode_unik": "D008" },
+        { "nama": "Muara Sugihan", "kode_unik": "D009" },
+        { "nama": "Pulau Rimau", "kode_unik": "D010" },
+        { "nama": "Rambutan", "kode_unik": "D011" },
+        { "nama": "Rantau Bayur", "kode_unik": "D012" },
+        { "nama": "Sembawa", "kode_unik": "D013" },
+        { "nama": "Selat Penuguan", "kode_unik": "D014" },
+        { "nama": "Suak Tapeh", "kode_unik": "D015" },
+        { "nama": "Talang Kelapa", "kode_unik": "D016" },
+        { "nama": "Tanjung Lago", "kode_unik": "D017" },
+        { "nama": "Tungkal Ilir", "kode_unik": "D018" },
+        { "nama": "Tungkal Jaya", "kode_unik": "D019" },
+        { "nama": "Karang Agung Ilir", "kode_unik": "D020" },
+        { "nama": "Banyuasin Selatan", "kode_unik": "D021" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Empat Lawang",
+      "kecamatan": [
+        { "nama": "Lintang Kanan", "kode_unik": "D022" },
+        { "nama": "Pendopo", "kode_unik": "D023" },
+        { "nama": "Pendopo Barat", "kode_unik": "D024" },
+        { "nama": "Muara Pinang", "kode_unik": "D025" },
+        { "nama": "Pasemah Air Keruh", "kode_unik": "D026" },
+        { "nama": "Talang Padang", "kode_unik": "D027" },
+        { "nama": "Sikap Dalam", "kode_unik": "D028" },
+        { "nama": "Tebing Tinggi", "kode_unik": "D029" },
+        { "nama": "Saling", "kode_unik": "D030" },
+        { "nama": "Ulu Musi", "kode_unik": "D031" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Lahat",
+      "kecamatan": [
+        { "nama": "Gumay Talang", "kode_unik": "D032" },
+        { "nama": "Gumay Ulu", "kode_unik": "D033" },
+        { "nama": "Jarai", "kode_unik": "D034" },
+        { "nama": "Kikim Barat", "kode_unik": "D035" },
+        { "nama": "Kikim Selatan", "kode_unik": "D036" },
+        { "nama": "Kikim Tengah", "kode_unik": "D037" },
+        { "nama": "Kikim Timur", "kode_unik": "D038" },
+        { "nama": "Kota Agung", "kode_unik": "D039" },
+        { "nama": "Lahat", "kode_unik": "D040" },
+        { "nama": "Merapi Barat", "kode_unik": "D041" },
+        { "nama": "Merapi Selatan", "kode_unik": "D042" },
+        { "nama": "Merapi Timur", "kode_unik": "D043" },
+        { "nama": "Mulak Sebingkai", "kode_unik": "D044" },
+        { "nama": "Mulak Ulu", "kode_unik": "D045" },
+        { "nama": "Pagar Gunung", "kode_unik": "D046" },
+        { "nama": "Pajar Bulan", "kode_unik": "D047" },
+        { "nama": "Pulau Pinang", "kode_unik": "D048" },
+        { "nama": "Suka Merindu", "kode_unik": "D049" },
+        { "nama": "Tanjung Sakti Pumi", "kode_unik": "D050" },
+        { "nama": "Tanjung Sakti Pumu", "kode_unik": "D051" },
+        { "nama": "Tanjung Tebat", "kode_unik": "D052" },
+        { "nama": "Pseksu", "kode_unik": "D053" },
+        { "nama": "Sukamerindu", "kode_unik": "D054" },
+        { "nama": "Lintang Kanan", "kode_unik": "D055" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Muara Enim",
+      "kecamatan": [
+        { "nama": "Belimbing", "kode_unik": "D056" },
+        { "nama": "Benakat", "kode_unik": "D057" },
+        { "nama": "Gelumbang", "kode_unik": "D058" },
+        { "nama": "Gunung Megang", "kode_unik": "D059" },
+        { "nama": "Kelekar", "kode_unik": "D060" },
+        { "nama": "Lawang Kidul", "kode_unik": "D061" },
+        { "nama": "Lembak", "kode_unik": "D062" },
+        { "nama": "Lubai", "kode_unik": "D063" },
+        { "nama": "Lubai Ulu", "kode_unik": "D064" },
+        { "nama": "Muara Enim", "kode_unik": "D065" },
+        { "nama": "Panang Enim", "kode_unik": "D066" },
+        { "nama": "Rambang", "kode_unik": "D067" },
+        { "nama": "Rambang Dangku", "kode_unik": "D068" },
+        { "nama": "Semende Darat Laut", "kode_unik": "D069" },
+        { "nama": "Semende Darat Tengah", "kode_unik": "D070" },
+        { "nama": "Semende Darat Ulu", "kode_unik": "D071" },
+        { "nama": "Sungai Rotan", "kode_unik": "D072" },
+        { "nama": "Tanjung Agung", "kode_unik": "D073" },
+        { "nama": "Tanjung Enim", "kode_unik": "D074" },
+        { "nama": "Ujan Mas", "kode_unik": "D075" },
+        { "nama": "Empat Petulai Dangku", "kode_unik": "D076" },
+        { "nama": "Muara Belida", "kode_unik": "D077" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Musi Banyuasin",
+      "kecamatan": [
+        { "nama": "Babat Supat", "kode_unik": "D078" },
+        { "nama": "Babat Toman", "kode_unik": "D079" },
+        { "nama": "Batanghari Leko", "kode_unik": "D080" },
+        { "nama": "Bayung Lencir", "kode_unik": "D081" },
+        { "nama": "Keluang", "kode_unik": "D082" },
+        { "nama": "Lais", "kode_unik": "D083" },
+        { "nama": "Lalan", "kode_unik": "D084" },
+        { "nama": "Lawang Wetan", "kode_unik": "D085" },
+        { "nama": "Plakat Tinggi", "kode_unik": "D086" },
+        { "nama": "Sanga Desa", "kode_unik": "D087" },
+        { "nama": "Sekayu", "kode_unik": "D088" },
+        { "nama": "Sungai Keruh", "kode_unik": "D089" },
+        { "nama": "Sungai Lilin", "kode_unik": "D090" },
+        { "nama": "Tungkal Jaya", "kode_unik": "D091" },
+        { "nama": "Jirak Jaya", "kode_unik": "D092" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Musi Rawas",
+      "kecamatan": [
+        { "nama": "Jayaloka", "kode_unik": "D093" },
+        { "nama": "Karang Dapo", "kode_unik": "D094" },
+        { "nama": "Karang Jaya", "kode_unik": "D095" },
+        { "nama": "Lubuklinggau", "kode_unik": "D096" },
+        { "nama": "Megang Sakti", "kode_unik": "D097" },
+        { "nama": "Muara Beliti", "kode_unik": "D098" },
+        { "nama": "Muara Kelingi", "kode_unik": "D099" },
+        { "nama": "Muara Lakitan", "kode_unik": "D100" },
+        { "nama": "Purwodadi", "kode_unik": "D101" },
+        { "nama": "Rawas Ilir", "kode_unik": "D102" },
+        { "nama": "Selangit", "kode_unik": "D103" },
+        { "nama": "Sukakarya", "kode_unik": "D104" },
+        { "nama": "STL Ulu Terawas", "kode_unik": "D105" },
+        { "nama": "Tugumulyo", "kode_unik": "D106" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Musi Rawas Utara",
+      "kecamatan": [
+        { "nama": "Karang Dapo", "kode_unik": "D107" },
+        { "nama": "Karang Jaya", "kode_unik": "D108" },
+        { "nama": "Muara Rupit", "kode_unik": "D109" },
+        { "nama": "Nibung", "kode_unik": "D110" },
+        { "nama": "Rawas Ilir", "kode_unik": "D111" },
+        { "nama": "Rawas Ulu", "kode_unik": "D112" },
+        { "nama": "Ulu Rawas", "kode_unik": "D113" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Ogan Ilir",
+      "kecamatan": [
+        { "nama": "Indralaya", "kode_unik": "D114" },
+        { "nama": "Indralaya Selatan", "kode_unik": "D115" },
+        { "nama": "Indralaya Utara", "kode_unik": "D116" },
+        { "nama": "Lubuk Keliat", "kode_unik": "D117" },
+        { "nama": "Muara Kuang", "kode_unik": "D118" },
+        { "nama": "Payaraman", "kode_unik": "D119" },
+        { "nama": "Pemulutan", "kode_unik": "D120" },
+        { "nama": "Pemulutan Barat", "kode_unik": "D121" },
+        { "nama": "Pemulutan Selatan", "kode_unik": "D122" },
+        { "nama": "Rantau Alai", "kode_unik": "D123" },
+        { "nama": "Rambang Kuang", "kode_unik": "D124" },
+        { "nama": "Sungai Pinang", "kode_unik": "D125" },
+        { "nama": "Tanjung Batu", "kode_unik": "D126" },
+        { "nama": "Tanjung Raja", "kode_unik": "D127" },
+        { "nama": "Kandis", "kode_unik": "D128" },
+        { "nama": "Rantau Panjang", "kode_unik": "D129" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Ogan Komering Ilir",
+      "kecamatan": [
+        { "nama": "Air Sugihan", "kode_unik": "D130" },
+        { "nama": "Cengal", "kode_unik": "D131" },
+        { "nama": "Jejawi", "kode_unik": "D132" },
+        { "nama": "Kayu Agung", "kode_unik": "D133" },
+        { "nama": "Kota Kayu Agung", "kode_unik": "D134" },
+        { "nama": "Lempuing", "kode_unik": "D135" },
+        { "nama": "Lempuing Jaya", "kode_unik": "D136" },
+        { "nama": "Mesuji", "kode_unik": "D137" },
+        { "nama": "Mesuji Makmur", "kode_unik": "D138" },
+        { "nama": "Mesuji Raya", "kode_unik": "D139" },
+        { "nama": "Pampangan", "kode_unik": "D140" },
+        { "nama": "Pedamaran", "kode_unik": "D141" },
+        { "nama": "Pedamaran Timur", "kode_unik": "D142" },
+        { "nama": "Pematang Panggang", "kode_unik": "D143" },
+        { "nama": "Sirah Pulau Padang", "kode_unik": "D144" },
+        { "nama": "Sungai Menang", "kode_unik": "D145" },
+        { "nama": "Teluk Gelam", "kode_unik": "D146" },
+        { "nama": "Tulung Selapan", "kode_unik": "D147" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Ogan Komering Ulu",
+      "kecamatan": [
+        { "nama": "Baturaja Barat", "kode_unik": "D148" },
+        { "nama": "Baturaja Timur", "kode_unik": "D149" },
+        { "nama": "Lubuk Batang", "kode_unik": "D150" },
+        { "nama": "Lengkiti", "kode_unik": "D151" },
+        { "nama": "Lubuk Raja", "kode_unik": "D152" },
+        { "nama": "Muara Jaya", "kode_unik": "D153" },
+        { "nama": "Pengandonan", "kode_unik": "D154" },
+        { "nama": "Peninjauan", "kode_unik": "D155" },
+        { "nama": "Semidang Aji", "kode_unik": "D156" },
+        { "nama": "Sosoh Buay Rayap", "kode_unik": "D157" },
+        { "nama": "Sinar Peninjauan", "kode_unik": "D158" },
+        { "nama": "Ulu Ogan", "kode_unik": "D159" },
+        { "nama": "Kedaton Peninjauan Raya", "kode_unik": "D160" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Ogan Komering Ulu Selatan",
+      "kecamatan": [
+        { "nama": "Banding Agung", "kode_unik": "D161" },
+        { "nama": "Buay Pemaca", "kode_unik": "D162" },
+        { "nama": "Buay Rawan", "kode_unik": "D163" },
+        { "nama": "Buay Sandang Aji", "kode_unik": "D164" },
+        { "nama": "Buana Pemaca", "kode_unik": "D165" },
+        { "nama": "Kisam Ilir", "kode_unik": "D166" },
+        { "nama": "Kisam Tinggi", "kode_unik": "D167" },
+        { "nama": "Mekakau Ilir", "kode_unik": "D168" },
+        { "nama": "Muaradua", "kode_unik": "D169" },
+        { "nama": "Muaradua Kisam", "kode_unik": "D170" },
+        { "nama": "Pulau Beringin", "kode_unik": "D171" },
+        { "nama": "Runjung Agung", "kode_unik": "D172" },
+        { "nama": "Simpang", "kode_unik": "D173" },
+        { "nama": "Sindang Danau", "kode_unik": "D174" },
+        { "nama": "Sungai Are", "kode_unik": "D175" },
+        { "nama": "Tiga Dihaji", "kode_unik": "D176" },
+        { "nama": "Warkuk Ranau Selatan", "kode_unik": "D177" },
+        { "nama": "Mekakau Ulu", "kode_unik": "D178" },
+        { "nama": "Buay Runjung", "kode_unik": "D179" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Ogan Komering Ulu Timur",
+      "kecamatan": [
+        { "nama": "Belitang", "kode_unik": "D180" },
+        { "nama": "Belitang II", "kode_unik": "D181" },
+        { "nama": "Belitang III", "kode_unik": "D182" },
+        { "nama": "Belitang Jaya", "kode_unik": "D183" },
+        { "nama": "Belitang Madang Raya", "kode_unik": "D184" },
+        { "nama": "Belitang Mulya", "kode_unik": "D185" },
+        { "nama": "Buay Madang", "kode_unik": "D186" },
+        { "nama": "Buay Madang Timur", "kode_unik": "D187" },
+        { "nama": "Buay Pemuka Bangsa Raja", "kode_unik": "D188" },
+        { "nama": "Buay Pemuka Peliung", "kode_unik": "D189" },
+        { "nama": "Cempaka", "kode_unik": "D190" },
+        { "nama": "Jayapura", "kode_unik": "D191" },
+        { "nama": "Madang Suku I", "kode_unik": "D192" },
+        { "nama": "Madang Suku II", "kode_unik": "D193" },
+        { "nama": "Martapura", "kode_unik": "D194" },
+        { "nama": "Semendawai Barat", "kode_unik": "D195" },
+        { "nama": "Semendawai Suku III", "kode_unik": "D196" },
+        { "nama": "Semendawai Timur", "kode_unik": "D197" },
+        { "nama": "Tugumulyo", "kode_unik": "D198" },
+        { "nama": "Peninjauan", "kode_unik": "D199" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Penukal Abab Lematang Ilir",
+      "kecamatan": [
+        { "nama": "Abab", "kode_unik": "D200" },
+        { "nama": "Penukal", "kode_unik": "D201" },
+        { "nama": "Penukal Utara", "kode_unik": "D202" },
+        { "nama": "Talang Ubi", "kode_unik": "D203" },
+        { "nama": "Tanah Abang", "kode_unik": "D204" }
+      ]
+    },
+    {
+      "nama": "Kota Lubuklinggau",
+      "kecamatan": [
+        { "nama": "Lubuklinggau Barat I", "kode_unik": "D205" },
+        { "nama": "Lubuklinggau Barat II", "kode_unik": "D206" },
+        { "nama": "Lubuklinggau Selatan I", "kode_unik": "D207" },
+        { "nama": "Lubuklinggau Selatan II", "kode_unik": "D208" },
+        { "nama": "Lubuklinggau Timur I", "kode_unik": "D209" },
+        { "nama": "Lubuklinggau Timur II", "kode_unik": "D210" },
+        { "nama": "Lubuklinggau Utara I", "kode_unik": "D211" },
+        { "nama": "Lubuklinggau Utara II", "kode_unik": "D212" }
+      ]
+    },
+    {
+      "nama": "Kota Pagar Alam",
+      "kecamatan": [
+        { "nama": "Dempo Selatan", "kode_unik": "D213" },
+        { "nama": "Dempo Tengah", "kode_unik": "D214" },
+        { "nama": "Dempo Utara", "kode_unik": "D215" },
+        { "nama": "Pagar Alam Selatan", "kode_unik": "D216" },
+        { "nama": "Pagar Alam Utara", "kode_unik": "D217" }
+      ]
+    },
+    {
+      "nama": "Kota Palembang",
+      "kecamatan": [
+        { "nama": "Alang-Alang Lebar", "kode_unik": "D218" },
+        { "nama": "Bukit Kecil", "kode_unik": "D219" },
+        { "nama": "Gandus", "kode_unik": "D220" },
+        { "nama": "Ilir Barat I", "kode_unik": "D221" },
+        { "nama": "Ilir Barat II", "kode_unik": "D222" },
+        { "nama": "Ilir Timur I", "kode_unik": "D223" },
+        { "nama": "Ilir Timur II", "kode_unik": "D224" },
+        { "nama": "Kalidoni", "kode_unik": "D225" },
+        { "nama": "Kemuning", "kode_unik": "D226" },
+        { "nama": "Kertapati", "kode_unik": "D227" },
+        { "nama": "Plaju", "kode_unik": "D228" },
+        { "nama": "Sako", "kode_unik": "D229" },
+        { "nama": "Seberang Ulu I", "kode_unik": "D230" },
+        { "nama": "Seberang Ulu II", "kode_unik": "D231" },
+        { "nama": "Sematang Borang", "kode_unik": "D232" },
+        { "nama": "Sukarami", "kode_unik": "D233" },
+        { "nama": "Jakabaring", "kode_unik": "D234" },
+        { "nama": "Talang Kelapa", "kode_unik": "D235" }
+      ]
+    },
+    {
+      "nama": "Kota Prabumulih",
+      "kecamatan": [
+        { "nama": "Cambai", "kode_unik": "D236" },
+        { "nama": "Prabumulih Barat", "kode_unik": "D237" },
+        { "nama": "Prabumulih Selatan", "kode_unik": "D238" },
+        { "nama": "Prabumulih Timur", "kode_unik": "D239" },
+        { "nama": "Prabumulih Utara", "kode_unik": "D240" },
+        { "nama": "Rambang Kapak Tengah", "kode_unik": "D241" }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,279 @@
+{
+  "provinsi": "Sumatera Barat",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Agam",
+      "kecamatan": [
+        { "nama": "Ampek Angkek", "kode_unik": "I01" },
+        { "nama": "Ampek Nagari", "kode_unik": "I02" },
+        { "nama": "Banuhampu", "kode_unik": "I03" },
+        { "nama": "Baso", "kode_unik": "I04" },
+        { "nama": "Candung", "kode_unik": "I05" },
+        { "nama": "Kamang Magek", "kode_unik": "I06" },
+        { "nama": "Lubuk Basung", "kode_unik": "I07" },
+        { "nama": "Malalak", "kode_unik": "I08" },
+        { "nama": "Matur", "kode_unik": "I09" },
+        { "nama": "Palembayan", "kode_unik": "I10" },
+        { "nama": "Palupuh", "kode_unik": "I11" },
+        { "nama": "IV Koto", "kode_unik": "I12" },
+        { "nama": "Sungaipua", "kode_unik": "I13" },
+        { "nama": "Tanjung Mutiara", "kode_unik": "I14" },
+        { "nama": "Tanjung Raya", "kode_unik": "I15" },
+        { "nama": "Tilatang Kamang", "kode_unik": "I16" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Dharmasraya",
+      "kecamatan": [
+        { "nama": "Asam Jujuhan", "kode_unik": "I17" },
+        { "nama": "Koto Besar", "kode_unik": "I18" },
+        { "nama": "Koto Baru", "kode_unik": "I19" },
+        { "nama": "Pulau Punjung", "kode_unik": "I20" },
+        { "nama": "Sembilan Koto", "kode_unik": "I21" },
+        { "nama": "Sungai Rumbai", "kode_unik": "I22" },
+        { "nama": "Timpeh", "kode_unik": "I23" },
+        { "nama": "Padang Laweh", "kode_unik": "I24" },
+        { "nama": "Tiumang", "kode_unik": "I25" },
+        { "nama": "Koto Salak", "kode_unik": "I26" },
+        { "nama": "Koto Tangah Darussalam", "kode_unik": "I27" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kepulauan Mentawai",
+      "kecamatan": [
+        { "nama": "Pagai Selatan", "kode_unik": "I28" },
+        { "nama": "Pagai Utara", "kode_unik": "I29" },
+        { "nama": "Sikakap", "kode_unik": "I30" },
+        { "nama": "Siberut Barat", "kode_unik": "I31" },
+        { "nama": "Siberut Barat Daya", "kode_unik": "I32" },
+        { "nama": "Siberut Selatan", "kode_unik": "I33" },
+        { "nama": "Siberut Tengah", "kode_unik": "I34" },
+        { "nama": "Siberut Utara", "kode_unik": "I35" },
+        { "nama": "Sipora Selatan", "kode_unik": "I36" },
+        { "nama": "Sipora Utara", "kode_unik": "I37" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Lima Puluh Kota",
+      "kecamatan": [
+        { "nama": "Akabiluru", "kode_unik": "I38" },
+        { "nama": "Bukik Barisan", "kode_unik": "I39" },
+        { "nama": "Guguak", "kode_unik": "I40" },
+        { "nama": "Gunuang Omeh", "kode_unik": "I41" },
+        { "nama": "Harau", "kode_unik": "I42" },
+        { "nama": "Kapur IX", "kode_unik": "I43" },
+        { "nama": "Lareh Sago Halaban", "kode_unik": "I44" },
+        { "nama": "Luak", "kode_unik": "I45" },
+        { "nama": "Mungka", "kode_unik": "I46" },
+        { "nama": "Pangkalan Koto Baru", "kode_unik": "I47" },
+        { "nama": "Payakumbuh", "kode_unik": "I48" },
+        { "nama": "Situjuah Limo Nagari", "kode_unik": "I49" },
+        { "nama": "Suliki", "kode_unik": "I50" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Padang Pariaman",
+      "kecamatan": [
+        { "nama": "2 x 11 Enam Lingkung", "kode_unik": "I51" },
+        { "nama": "Batang Anai", "kode_unik": "I52" },
+        { "nama": "Batang Gasan", "kode_unik": "I53" },
+        { "nama": "Enam Lingkung", "kode_unik": "I54" },
+        { "nama": "IV Koto Aur Malintang", "kode_unik": "I55" },
+        { "nama": "Lubuk Alung", "kode_unik": "I56" },
+        { "nama": "Nan Sabaris", "kode_unik": "I57" },
+        { "nama": "Padang Sago", "kode_unik": "I58" },
+        { "nama": "Patamuan", "kode_unik": "I59" },
+        { "nama": "Sintuk Toboh Gadang", "kode_unik": "I60" },
+        { "nama": "Sungai Geringging", "kode_unik": "I61" },
+        { "nama": "Sungai Limau", "kode_unik": "I62" },
+        { "nama": "Ulakan Tapakis", "kode_unik": "I63" },
+        { "nama": "V Koto Kampung Dalam", "kode_unik": "I64" },
+        { "nama": "V Koto Timur", "kode_unik": "I65" },
+        { "nama": "VII Koto Sungai Sarik", "kode_unik": "I66" },
+        { "nama": "Pariaman", "kode_unik": "I67" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Pasaman",
+      "kecamatan": [
+        { "nama": "Bonjol", "kode_unik": "I68" },
+        { "nama": "Dua Koto", "kode_unik": "I69" },
+        { "nama": "Lubuk Sikaping", "kode_unik": "I70" },
+        { "nama": "Mapat Tunggul", "kode_unik": "I71" },
+        { "nama": "Mapat Tunggul Selatan", "kode_unik": "I72" },
+        { "nama": "Padang Gelugur", "kode_unik": "I73" },
+        { "nama": "Panti", "kode_unik": "I74" },
+        { "nama": "Rao", "kode_unik": "I75" },
+        { "nama": "Rao Selatan", "kode_unik": "I76" },
+        { "nama": "Rao Utara", "kode_unik": "I77" },
+        { "nama": "Simpati", "kode_unik": "I78" },
+        { "nama": "Tigo Nagari", "kode_unik": "I79" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Pasaman Barat",
+      "kecamatan": [
+        { "nama": "Gunung Tuleh", "kode_unik": "I80" },
+        { "nama": "Kinali", "kode_unik": "I81" },
+        { "nama": "Lembah Melintang", "kode_unik": "I82" },
+        { "nama": "Luhak Nan Duo", "kode_unik": "I83" },
+        { "nama": "Pasaman", "kode_unik": "I84" },
+        { "nama": "Ranah Batahan", "kode_unik": "I85" },
+        { "nama": "Sasak Ranah Pasisie", "kode_unik": "I86" },
+        { "nama": "Sei Beremas", "kode_unik": "I87" },
+        { "nama": "Sungai Aur", "kode_unik": "I88" },
+        { "nama": "Talamau", "kode_unik": "I89" },
+        { "nama": "Sungai Beremas", "kode_unik": "I90" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Pesisir Selatan",
+      "kecamatan": [
+        { "nama": "Airpura", "kode_unik": "I91" },
+        { "nama": "Basa Ampek Balai Tapan", "kode_unik": "I92" },
+        { "nama": "Batangkapas", "kode_unik": "I93" },
+        { "nama": "Bayang", "kode_unik": "I94" },
+        { "nama": "IV Jurai", "kode_unik": "I95" },
+        { "nama": "IV Nagari Bayang Utara", "kode_unik": "I96" },
+        { "nama": "Koto XI Tarusan", "kode_unik": "I97" },
+        { "nama": "Lengayang", "kode_unik": "I98" },
+        { "nama": "Linggo Sari Baganti", "kode_unik": "I99" },
+        { "nama": "Lunang", "kode_unik": "I100" },
+        { "nama": "Pancung Soal", "kode_unik": "I101" },
+        { "nama": "Ranah Ampek Hulu Tapan", "kode_unik": "I102" },
+        { "nama": "Ranah Pesisir", "kode_unik": "I103" },
+        { "nama": "Silaut", "kode_unik": "I104" },
+        { "nama": "Sutera", "kode_unik": "I105" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Sijunjung",
+      "kecamatan": [
+        { "nama": "IV Nagari", "kode_unik": "I106" },
+        { "nama": "Kamang Baru", "kode_unik": "I107" },
+        { "nama": "Koto VII", "kode_unik": "I108" },
+        { "nama": "Kupitan", "kode_unik": "I109" },
+        { "nama": "Lubuk Tarok", "kode_unik": "I110" },
+        { "nama": "Sijunjung", "kode_unik": "I111" },
+        { "nama": "Tanjung Gadang", "kode_unik": "I112" },
+        { "nama": "Sumpur Kudus", "kode_unik": "I113" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Solok",
+      "kecamatan": [
+        { "nama": "Bukit Sundi", "kode_unik": "I114" },
+        { "nama": "Danau Kembar", "kode_unik": "I115" },
+        { "nama": "Gunung Talang", "kode_unik": "I116" },
+        { "nama": "Hiliran Gumanti", "kode_unik": "I117" },
+        { "nama": "IX Koto Sungai Lasi", "kode_unik": "I118" },
+        { "nama": "Kubung", "kode_unik": "I119" },
+        { "nama": "Lembah Gumanti", "kode_unik": "I120" },
+        { "nama": "Lembang Jaya", "kode_unik": "I121" },
+        { "nama": "Pantai Cermin", "kode_unik": "I122" },
+        { "nama": "Payung Sekaki", "kode_unik": "I123" },
+        { "nama": "Tigo Lurah", "kode_unik": "I124" },
+        { "nama": "X Koto Diatas", "kode_unik": "I125" },
+        { "nama": "X Koto Singkarak", "kode_unik": "I126" },
+        { "nama": "Junjung Sirih", "kode_unik": "I127" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Solok Selatan",
+      "kecamatan": [
+        { "nama": "Koto Parik Gadang Diateh", "kode_unik": "I128" },
+        { "nama": "Pauh Duo", "kode_unik": "I129" },
+        { "nama": "Sangir", "kode_unik": "I130" },
+        { "nama": "Sangir Balai Janggo", "kode_unik": "I131" },
+        { "nama": "Sangir Batang Hari", "kode_unik": "I132" },
+        { "nama": "Sangir Jujuan", "kode_unik": "I133" },
+        { "nama": "Sungai Pagu", "kode_unik": "I134" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Tanah Datar",
+      "kecamatan": [
+        { "nama": "Batipuh", "kode_unik": "I135" },
+        { "nama": "Batipuh Selatan", "kode_unik": "I136" },
+        { "nama": "Lintau Buo", "kode_unik": "I137" },
+        { "nama": "Lintau Buo Utara", "kode_unik": "I138" },
+        { "nama": "Padang Ganting", "kode_unik": "I139" },
+        { "nama": "Pariangan", "kode_unik": "I140" },
+        { "nama": "Rambatan", "kode_unik": "I141" },
+        { "nama": "Salimpaung", "kode_unik": "I142" },
+        { "nama": "Sepuluh Koto", "kode_unik": "I143" },
+        { "nama": "Sungai Tarab", "kode_unik": "I144" },
+        { "nama": "Sungayang", "kode_unik": "I145" },
+        { "nama": "Tanjung Emas", "kode_unik": "I146" },
+        { "nama": "Tanjung Baru", "kode_unik": "I147" },
+        { "nama": "Lima Kaum", "kode_unik": "I148" }
+      ]
+    },
+    {
+      "nama": "Kota Bukittinggi",
+      "kecamatan": [
+        { "nama": "Aur Birugo Tigo Baleh", "kode_unik": "I149" },
+        { "nama": "Guguk Panjang", "kode_unik": "I150" },
+        { "nama": "Mandiangin Koto Selayan", "kode_unik": "I151" }
+      ]
+    },
+    {
+      "nama": "Kota Padang",
+      "kecamatan": [
+        { "nama": "Bungus Teluk Kabung", "kode_unik": "I152" },
+        { "nama": "Koto Tangah", "kode_unik": "I153" },
+        { "nama": "Kuranji", "kode_unik": "I154" },
+        { "nama": "Lubuk Begalung", "kode_unik": "I155" },
+        { "nama": "Lubuk Kilangan", "kode_unik": "I156" },
+        { "nama": "Nanggalo", "kode_unik": "I157" },
+        { "nama": "Padang Barat", "kode_unik": "I158" },
+        { "nama": "Padang Selatan", "kode_unik": "I159" },
+        { "nama": "Padang Timur", "kode_unik": "I160" },
+        { "nama": "Padang Utara", "kode_unik": "I161" },
+        { "nama": "Pauh", "kode_unik": "I162" }
+      ]
+    },
+    {
+      "nama": "Kota Padangpanjang",
+      "kecamatan": [
+        { "nama": "Padang Panjang Barat", "kode_unik": "I163" },
+        { "nama": "Padang Panjang Timur", "kode_unik": "I164" }
+      ]
+    },
+    {
+      "nama": "Kota Pariaman",
+      "kecamatan": [
+        { "nama": "Pariaman Selatan", "kode_unik": "I165" },
+        { "nama": "Pariaman Tengah", "kode_unik": "I166" },
+        { "nama": "Pariaman Timur", "kode_unik": "I167" },
+        { "nama": "Pariaman Utara", "kode_unik": "I168" }
+      ]
+    },
+    {
+      "nama": "Kota Payakumbuh",
+      "kecamatan": [
+        { "nama": "Payakumbuh Barat", "kode_unik": "I169" },
+        { "nama": "Payakumbuh Selatan", "kode_unik": "I170" },
+        { "nama": "Payakumbuh Timur", "kode_unik": "I171" },
+        { "nama": "Payakumbuh Utara", "kode_unik": "I172" },
+        { "nama": "Lamposi Tigo Nagari", "kode_unik": "I173" }
+      ]
+    },
+    {
+      "nama": "Kota Sawahlunto",
+      "kecamatan": [
+        { "nama": "Barangin", "kode_unik": "I174" },
+        { "nama": "Lembah Segar", "kode_unik": "I175" },
+        { "nama": "Silungkang", "kode_unik": "I176" },
+        { "nama": "Talawi", "kode_unik": "I177" }
+      ]
+    },
+    {
+      "nama": "Kota Solok",
+      "kecamatan": [
+        { "nama": "Lubuk Sikarah", "kode_unik": "I178" },
+        { "nama": "Tanjung Harapan", "kode_unik": "I179" }
+      ]
+    }
+  ]
+}

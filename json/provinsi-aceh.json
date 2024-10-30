@@ -1,0 +1,405 @@
+{
+  "provinsi": "Aceh",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Aceh Barat",
+      "kecamatan": [
+        { "nama": "Arongan Lambalek", "kode_unik": "G01" },
+        { "nama": "Bubon", "kode_unik": "G02" },
+        { "nama": "Johan Pahlawan", "kode_unik": "G03" },
+        { "nama": "Kaway XVI", "kode_unik": "G04" },
+        { "nama": "Meureubo", "kode_unik": "G05" },
+        { "nama": "Pante Ceureumen", "kode_unik": "G06" },
+        { "nama": "Panton Reu", "kode_unik": "G07" },
+        { "nama": "Samatiga", "kode_unik": "G08" },
+        { "nama": "Sungai Mas", "kode_unik": "G09" },
+        { "nama": "Woyla", "kode_unik": "G10" },
+        { "nama": "Woyla Barat", "kode_unik": "G11" },
+        { "nama": "Woyla Timur", "kode_unik": "G12" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Aceh Barat Daya",
+      "kecamatan": [
+        { "nama": "Babah Rot", "kode_unik": "G13" },
+        { "nama": "Blang Pidie", "kode_unik": "G14" },
+        { "nama": "Jeumpa", "kode_unik": "G15" },
+        { "nama": "Kuala Batee", "kode_unik": "G16" },
+        { "nama": "Lembah Sabil", "kode_unik": "G17" },
+        { "nama": "Manggeng", "kode_unik": "G18" },
+        { "nama": "Setia", "kode_unik": "G19" },
+        { "nama": "Susoh", "kode_unik": "G20" },
+        { "nama": "Tangan-Tangan", "kode_unik": "G21" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Aceh Besar",
+      "kecamatan": [
+        { "nama": "Baitussalam", "kode_unik": "G22" },
+        { "nama": "Blang Bintang", "kode_unik": "G23" },
+        { "nama": "Darul Imarah", "kode_unik": "G24" },
+        { "nama": "Darul Kamal", "kode_unik": "G25" },
+        { "nama": "Darussalam", "kode_unik": "G26" },
+        { "nama": "Indrapuri", "kode_unik": "G27" },
+        { "nama": "Ingin Jaya", "kode_unik": "G28" },
+        { "nama": "Jantho", "kode_unik": "G29" },
+        { "nama": "Kuta Baro", "kode_unik": "G30" },
+        { "nama": "Kuta Cot Glie", "kode_unik": "G31" },
+        { "nama": "Lembah Seulawah", "kode_unik": "G32" },
+        { "nama": "Leupung", "kode_unik": "G33" },
+        { "nama": "Lhoong", "kode_unik": "G34" },
+        { "nama": "Lhoknga", "kode_unik": "G35" },
+        { "nama": "Mesjid Raya", "kode_unik": "G36" },
+        { "nama": "Montasik", "kode_unik": "G37" },
+        { "nama": "Peukan Bada", "kode_unik": "G38" },
+        { "nama": "Pulo Aceh", "kode_unik": "G39" },
+        { "nama": "Seulimeum", "kode_unik": "G40" },
+        { "nama": "Simpang Tiga", "kode_unik": "G41" },
+        { "nama": "Sukamakmur", "kode_unik": "G42" },
+        { "nama": "Suka Jaya", "kode_unik": "G43" },
+        { "nama": "Suka Makmur", "kode_unik": "G44" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Aceh Jaya",
+      "kecamatan": [
+        { "nama": "Darul Hikmah", "kode_unik": "G45" },
+        { "nama": "Indra Jaya", "kode_unik": "G46" },
+        { "nama": "Jaya", "kode_unik": "G47" },
+        { "nama": "Krueng Sabee", "kode_unik": "G48" },
+        { "nama": "Pasie Raya", "kode_unik": "G49" },
+        { "nama": "Sampoiniet", "kode_unik": "G50" },
+        { "nama": "Setia Bakti", "kode_unik": "G51" },
+        { "nama": "Teunom", "kode_unik": "G52" },
+        { "nama": "Panga", "kode_unik": "G53" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Aceh Selatan",
+      "kecamatan": [
+        { "nama": "Bakongan", "kode_unik": "G54" },
+        { "nama": "Bakongan Timur", "kode_unik": "G55" },
+        { "nama": "Kluet Selatan", "kode_unik": "G56" },
+        { "nama": "Kluet Tengah", "kode_unik": "G57" },
+        { "nama": "Kluet Timur", "kode_unik": "G58" },
+        { "nama": "Kluet Utara", "kode_unik": "G59" },
+        { "nama": "Kota Bahagia", "kode_unik": "G60" },
+        { "nama": "Labuhan Haji", "kode_unik": "G61" },
+        { "nama": "Labuhan Haji Barat", "kode_unik": "G62" },
+        { "nama": "Labuhan Haji Timur", "kode_unik": "G63" },
+        { "nama": "Meukek", "kode_unik": "G64" },
+        { "nama": "Pasie Raja", "kode_unik": "G65" },
+        { "nama": "Sama Dua", "kode_unik": "G66" },
+        { "nama": "Sawang", "kode_unik": "G67" },
+        { "nama": "Tapaktuan", "kode_unik": "G68" },
+        { "nama": "Trumon", "kode_unik": "G69" },
+        { "nama": "Trumon Tengah", "kode_unik": "G70" },
+        { "nama": "Trumon Timur", "kode_unik": "G71" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Aceh Singkil",
+      "kecamatan": [
+        { "nama": "Danau Paris", "kode_unik": "G72" },
+        { "nama": "Gunung Meriah", "kode_unik": "G73" },
+        { "nama": "Kuala Baru", "kode_unik": "G74" },
+        { "nama": "Pulau Banyak", "kode_unik": "G75" },
+        { "nama": "Pulau Banyak Barat", "kode_unik": "G76" },
+        { "nama": "Simpang Kanan", "kode_unik": "G77" },
+        { "nama": "Singkil", "kode_unik": "G78" },
+        { "nama": "Singkil Utara", "kode_unik": "G79" },
+        { "nama": "Suro Makmur", "kode_unik": "G80" },
+        { "nama": "Singkohor", "kode_unik": "G81" },
+        { "nama": "Kota Baharu", "kode_unik": "G82" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Aceh Tamiang",
+      "kecamatan": [
+        { "nama": "Bandar Pusaka", "kode_unik": "G83" },
+        { "nama": "Banda Mulia", "kode_unik": "G84" },
+        { "nama": "Karang Baru", "kode_unik": "G85" },
+        { "nama": "Kejuruan Muda", "kode_unik": "G86" },
+        { "nama": "Kota Kualasimpang", "kode_unik": "G87" },
+        { "nama": "Manyak Payed", "kode_unik": "G88" },
+        { "nama": "Rantau", "kode_unik": "G89" },
+        { "nama": "Sekerak", "kode_unik": "G90" },
+        { "nama": "Seruway", "kode_unik": "G91" },
+        { "nama": "Tamiang Hulu", "kode_unik": "G92" },
+        { "nama": "Tenggulun", "kode_unik": "G93" },
+        { "nama": "Bendahara", "kode_unik": "G94" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Aceh Tengah",
+      "kecamatan": [
+        { "nama": "Atu Lintang", "kode_unik": "G95" },
+        { "nama": "Bebesen", "kode_unik": "G96" },
+        { "nama": "Bies", "kode_unik": "G97" },
+        { "nama": "Bintang", "kode_unik": "G98" },
+        { "nama": "Jagong Jeget", "kode_unik": "G99" },
+        { "nama": "Kebayakan", "kode_unik": "G100" },
+        { "nama": "Ketol", "kode_unik": "G101" },
+        { "nama": "Linge", "kode_unik": "G102" },
+        { "nama": "Lut Tawar", "kode_unik": "G103" },
+        { "nama": "Pegasing", "kode_unik": "G104" },
+        { "nama": "Rusip Antara", "kode_unik": "G105" },
+        { "nama": "Silih Nara", "kode_unik": "G106" },
+        { "nama": "Celala", "kode_unik": "G107" },
+        { "nama": "Jagong Jeget", "kode_unik": "G108" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Aceh Tenggara",
+      "kecamatan": [
+        { "nama": "Babussalam", "kode_unik": "G109" },
+        { "nama": "Badar", "kode_unik": "G110" },
+        { "nama": "Bambel", "kode_unik": "G111" },
+        { "nama": "Bukit Tusam", "kode_unik": "G112" },
+        { "nama": "Darul Hasanah", "kode_unik": "G113" },
+        { "nama": "Deleng Pokhkisen", "kode_unik": "G114" },
+        { "nama": "Ketambe", "kode_unik": "G115" },
+        { "nama": "Lawe Alas", "kode_unik": "G116" },
+        { "nama": "Lawe Bulan", "kode_unik": "G117" },
+        { "nama": "Lawe Sigala-gala", "kode_unik": "G118" },
+        { "nama": "Lawe Sumur", "kode_unik": "G119" },
+        { "nama": "Leuser", "kode_unik": "G120" },
+        { "nama": "Semadam", "kode_unik": "G121" },
+        { "nama": "Tanah Alas", "kode_unik": "G122" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Aceh Timur",
+      "kecamatan": [
+        { "nama": "Birem Bayeun", "kode_unik": "G123" },
+        { "nama": "Darul Aman", "kode_unik": "G124" },
+        { "nama": "Darul Falah", "kode_unik": "G125" },
+        { "nama": "Darul Iksan", "kode_unik": "G126" },
+        { "nama": "Idi Rayeuk", "kode_unik": "G127" },
+        { "nama": "Idi Timur", "kode_unik": "G128" },
+        { "nama": "Idi Tunong", "kode_unik": "G129" },
+        { "nama": "Indra Makmu", "kode_unik": "G130" },
+        { "nama": "Julok", "kode_unik": "G131" },
+        { "nama": "Madat", "kode_unik": "G132" },
+        { "nama": "Nurussalam", "kode_unik": "G133" },
+        { "nama": "Pantee Bidari", "kode_unik": "G134" },
+        { "nama": "Peudawa", "kode_unik": "G135" },
+        { "nama": "Peureulak", "kode_unik": "G136" },
+        { "nama": "Peureulak Barat", "kode_unik": "G137" },
+        { "nama": "Peureulak Timur", "kode_unik": "G138" },
+        { "nama": "Rantau Selamat", "kode_unik": "G139" },
+        { "nama": "Ranto Peureulak", "kode_unik": "G140" },
+        { "nama": "Serbajadi", "kode_unik": "G141" },
+        { "nama": "Simpang Jernih", "kode_unik": "G142" },
+        { "nama": "Simpang Ulim", "kode_unik": "G143" },
+        { "nama": "Sungai Raya", "kode_unik": "G144" }
+      ]
+    },
+	{
+  	  "nama": "Kabupaten Aceh Utara",
+  	  "kecamatan": [
+  		{ "nama": "Baktiya", "kode_unik": "G145" },
+  		{ "nama": "Baktiya Barat", "kode_unik": "G146" },
+  		{ "nama": "Banda Baro", "kode_unik": "G147" },
+  		{ "nama": "Cot Girek", "kode_unik": "G148" },
+  		{ "nama": "Dewantara", "kode_unik": "G149" },
+  		{ "nama": "Geureudong Pase", "kode_unik": "G150" },
+  		{ "nama": "Kuta Makmur", "kode_unik": "G151" },
+  		{ "nama": "Langkahan", "kode_unik": "G152" },
+  		{ "nama": "Lapang", "kode_unik": "G153" },
+  		{ "nama": "Lhoksukon", "kode_unik": "G154" },
+  		{ "nama": "Matangkuli", "kode_unik": "G155" },
+  		{ "nama": "Meurah Mulia", "kode_unik": "G156" },
+  		{ "nama": "Muara Batu", "kode_unik": "G157" },
+  		{ "nama": "Nibong", "kode_unik": "G158" },
+  		{ "nama": "Nisam", "kode_unik": "G159" },
+  		{ "nama": "Nisam Antara", "kode_unik": "G160" },
+  		{ "nama": "Paya Bakong", "kode_unik": "G161" },
+  		{ "nama": "Pirak Timu", "kode_unik": "G162" },
+  		{ "nama": "Samudera", "kode_unik": "G163" },
+  		{ "nama": "Sawang", "kode_unik": "G164" },
+  		{ "nama": "Seunudon", "kode_unik": "G165" },
+  		{ "nama": "Simpang Kramat", "kode_unik": "G166" },
+  		{ "nama": "Syamtalira Aron", "kode_unik": "G167" },
+  		{ "nama": "Syamtalira Bayu", "kode_unik": "G168" },
+  		{ "nama": "Tanah Jambo Aye", "kode_unik": "G169" },
+  		{ "nama": "Tanah Luas", "kode_unik": "G170" },
+  		{ "nama": "Tanah Pasir", "kode_unik": "G171" }
+  	  ]
+  	},
+  	{
+  	  "nama": "Kabupaten Bener Meriah",
+  	  "kecamatan": [
+  		{ "nama": "Bandar", "kode_unik": "G172" },
+  		{ "nama": "Bener Kelipah", "kode_unik": "G173" },
+  		{ "nama": "Bukit", "kode_unik": "G174" },
+  		{ "nama": "Gajah Putih", "kode_unik": "G175" },
+  		{ "nama": "Mesidah", "kode_unik": "G176" },
+  		{ "nama": "Permata", "kode_unik": "G177" },
+  		{ "nama": "Pintu Rime Gayo", "kode_unik": "G178" },
+  		{ "nama": "Syiah Utama", "kode_unik": "G179" },
+  		{ "nama": "Timang Gajah", "kode_unik": "G180" },
+  		{ "nama": "Wih Pesam", "kode_unik": "G181" }
+  	  ]
+  	},
+  	{
+  	  "nama": "Kabupaten Bireuen",
+  	  "kecamatan": [
+  		{ "nama": "Gandapura", "kode_unik": "G182" },
+  		{ "nama": "Jangka", "kode_unik": "G183" },
+  		{ "nama": "Jeumpa", "kode_unik": "G184" },
+  		{ "nama": "Juli", "kode_unik": "G185" },
+  		{ "nama": "Kota Juang", "kode_unik": "G186" },
+  		{ "nama": "Kuala", "kode_unik": "G187" },
+  		{ "nama": "Kuta Blang", "kode_unik": "G188" },
+  		{ "nama": "Makmur", "kode_unik": "G189" },
+  		{ "nama": "Pandrah", "kode_unik": "G190" },
+  		{ "nama": "Peudada", "kode_unik": "G191" },
+  		{ "nama": "Peulimbang", "kode_unik": "G192" },
+  		{ "nama": "Peusangan", "kode_unik": "G193" },
+  		{ "nama": "Peusangan Selatan", "kode_unik": "G194" },
+  		{ "nama": "Peusangan Siblah Krueng", "kode_unik": "G195" },
+  		{ "nama": "Samalanga", "kode_unik": "G196" },
+  		{ "nama": "Simpang Mamplam", "kode_unik": "G197" },
+  		{ "nama": "Jeunieb", "kode_unik": "G198" }
+  	  ]
+  	},
+  	{
+  	  "nama": "Kabupaten Gayo Lues",
+  	  "kecamatan": [
+  		{ "nama": "Blangjerango", "kode_unik": "G199" },
+  		{ "nama": "Dabun Gelang", "kode_unik": "G200" },
+  		{ "nama": "Kuta Panjang", "kode_unik": "G201" },
+  		{ "nama": "Pantan Cuaca", "kode_unik": "G202" },
+  		{ "nama": "Pining", "kode_unik": "G203" },
+  		{ "nama": "Putri Betung", "kode_unik": "G204" },
+  		{ "nama": "Rikit Gaib", "kode_unik": "G205" },
+  		{ "nama": "Terangun", "kode_unik": "G206" },
+  		{ "nama": "Blangkejeren", "kode_unik": "G207" },
+  		{ "nama": "Tripe Jaya", "kode_unik": "G208" },
+  		{ "nama": "Blang Pegayon", "kode_unik": "G209" }
+  	  ]
+  	},
+  	{
+  	  "nama": "Kabupaten Nagan Raya",
+  	  "kecamatan": [
+  		{ "nama": "Beutong", "kode_unik": "G210" },
+  		{ "nama": "Beutong Ateuh Banggalang", "kode_unik": "G211" },
+  		{ "nama": "Darul Makmur", "kode_unik": "G212" },
+  		{ "nama": "Kuala", "kode_unik": "G213" },
+  		{ "nama": "Kuala Pesisir", "kode_unik": "G214" },
+  		{ "nama": "Suka Makmue", "kode_unik": "G215" },
+  		{ "nama": "Seunagan", "kode_unik": "G216" },
+  		{ "nama": "Seunagan Timur", "kode_unik": "G217" },
+  		{ "nama": "Tadu Raya", "kode_unik": "G218" },
+  		{ "nama": "Tripa Makmur", "kode_unik": "G219" }
+  	  ]
+  	},
+  	{
+  	  "nama": "Kabupaten Pidie",
+  	  "kecamatan": [
+  		{ "nama": "Batee", "kode_unik": "G220" },
+  		{ "nama": "Delima", "kode_unik": "G221" },
+  		{ "nama": "Geumpang", "kode_unik": "G222" },
+  		{ "nama": "Glumpang Baro", "kode_unik": "G223" },
+  		{ "nama": "Glumpang Tiga", "kode_unik": "G224" },
+  		{ "nama": "Grong-grong", "kode_unik": "G225" },
+  		{ "nama": "Indrajaya", "kode_unik": "G226" },
+  		{ "nama": "Kembang Tanjong", "kode_unik": "G227" },
+  		{ "nama": "Keumala", "kode_unik": "G228" },
+  		{ "nama": "Kota Sigli", "kode_unik": "G229" },
+  		{ "nama": "Manee", "kode_unik": "G230" },
+  		{ "nama": "Mila", "kode_unik": "G231" },
+  		{ "nama": "Muara Tiga", "kode_unik": "G232" },
+  		{ "nama": "Mutiara", "kode_unik": "G233" },
+  		{ "nama": "Mutiara Timur", "kode_unik": "G234" },
+  		{ "nama": "Padang Tiji", "kode_unik": "G235" },
+  		{ "nama": "Peukan Baro", "kode_unik": "G236" },
+  		{ "nama": "Pidie", "kode_unik": "G237" },
+  		{ "nama": "Sakti", "kode_unik": "G238" },
+  		{ "nama": "Simpang Tiga", "kode_unik": "G239" },
+  		{ "nama": "Tangse", "kode_unik": "G240" },
+  		{ "nama": "Tiro/Truseb", "kode_unik": "G241" },
+  		{ "nama": "Titeue", "kode_unik": "G242" }
+  	  ]
+  	},
+  	{
+  	  "nama": "Kabupaten Pidie Jaya",
+  	  "kecamatan": [
+  		{ "nama": "Bandar Baru", "kode_unik": "G243" },
+  		{ "nama": "Bandar Dua", "kode_unik": "G244" },
+  		{ "nama": "Jangka Buya", "kode_unik": "G245" },
+  		{ "nama": "Meurah Dua", "kode_unik": "G246" },
+  		{ "nama": "Meureudu", "kode_unik": "G247" },
+  		{ "nama": "Panteraja", "kode_unik": "G248" },
+  		{ "nama": "Trienggadeng", "kode_unik": "G249" },
+  		{ "nama": "Ulim", "kode_unik": "G250" }
+  	  ]
+  	},
+  	{
+  	  "nama": "Kabupaten Simeulue",
+  	  "kecamatan": [
+  		{ "nama": "Alafan", "kode_unik": "G251" },
+  		{ "nama": "Salang", "kode_unik": "G252" },
+  		{ "nama": "Simeulue Barat", "kode_unik": "G253" },
+  		{ "nama": "Simeulue Cut", "kode_unik": "G254" },
+  		{ "nama": "Simeulue Tengah", "kode_unik": "G255" },
+  		{ "nama": "Simeulue Timur", "kode_unik": "G256" },
+  		{ "nama": "Teupah Barat", "kode_unik": "G257" },
+  		{ "nama": "Teupah Selatan", "kode_unik": "G258" },
+  		{ "nama": "Teupah Tengah", "kode_unik": "G259" },
+  		{ "nama": "Teluk Dalam", "kode_unik": "G260" }
+  	  ]
+  	},
+  	{
+  	  "nama": "Kota Banda Aceh",
+  	  "kecamatan": [
+  		{ "nama": "Baiturrahman", "kode_unik": "G261" },
+  		{ "nama": "Banda Raya", "kode_unik": "G262" },
+  		{ "nama": "Jaya Baru", "kode_unik": "G263" },
+  		{ "nama": "Kuta Alam", "kode_unik": "G264" },
+  		{ "nama": "Kuta Raja", "kode_unik": "G265" },
+  		{ "nama": "Lueng Bata", "kode_unik": "G266" },
+  		{ "nama": "Meuraxa", "kode_unik": "G267" },
+  		{ "nama": "Syiah Kuala", "kode_unik": "G268" },
+  		{ "nama": "Ulee Kareng", "kode_unik": "G269" }
+  	  ]
+  	},
+  	{
+  	  "nama": "Kota Langsa",
+  	  "kecamatan": [
+  		{ "nama": "Langsa Barat", "kode_unik": "G270" },
+  		{ "nama": "Langsa Baro", "kode_unik": "G271" },
+  		{ "nama": "Langsa Kota", "kode_unik": "G272" },
+  		{ "nama": "Langsa Lama", "kode_unik": "G273" },
+  		{ "nama": "Langsa Timur", "kode_unik": "G274" }
+  	  ]
+  	},
+  	{
+  	  "nama": "Kota Lhokseumawe",
+  	  "kecamatan": [
+  		{ "nama": "Banda Sakti", "kode_unik": "G275" },
+  		{ "nama": "Blang Mangat", "kode_unik": "G276" },
+  		{ "nama": "Muara Dua", "kode_unik": "G277" },
+  		{ "nama": "Muara Satu", "kode_unik": "G278" }
+  	  ]
+  	},
+  	{
+  	  "nama": "Kota Sabang",
+  	  "kecamatan": [
+  		{ "nama": "Sukajaya", "kode_unik": "G279" },
+  		{ "nama": "Sukakarya", "kode_unik": "G280" }
+  	  ]
+  	},
+  	{
+  	  "nama": "Kota Subulussalam",
+  	  "kecamatan": [
+  		{ "nama": "Longkib", "kode_unik": "G281" },
+  		{ "nama": "Penanggalan", "kode_unik": "G282" },
+  		{ "nama": "Rundeng", "kode_unik": "G283" },
+  		{ "nama": "Simpang Kiri", "kode_unik": "G284" },
+  		{ "nama": "Sultan Daulat", "kode_unik": "G285" }
+  	  ]
+  	}
+  ]
+}

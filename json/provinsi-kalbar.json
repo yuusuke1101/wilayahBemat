@@ -1,0 +1,248 @@
+{
+  "provinsi": "Lampung",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Bengkayang",
+      "kecamatan": [
+        { "nama": "Bengkayang", "kode_unik": "R01" },
+        { "nama": "Jagoi Babang", "kode_unik": "R02" },
+        { "nama": "Ledo", "kode_unik": "R03" },
+        { "nama": "Lumar", "kode_unik": "R04" },
+        { "nama": "Monterado", "kode_unik": "R05" },
+        { "nama": "Samalantan", "kode_unik": "R06" },
+        { "nama": "Seluas", "kode_unik": "R07" },
+        { "nama": "Sanggau Ledo", "kode_unik": "R08" },
+        { "nama": "Sungai Betung", "kode_unik": "R09" },
+        { "nama": "Sungai Raya", "kode_unik": "R10" },
+        { "nama": "Sungai Raya Kepulauan", "kode_unik": "R11" },
+        { "nama": "Suti Semarang", "kode_unik": "R12" },
+        { "nama": "Teriak", "kode_unik": "R13" },
+        { "nama": "Tujuh Belas", "kode_unik": "R14" },
+        { "nama": "Capkala", "kode_unik": "R15" },
+        { "nama": "Lembah Bawang", "kode_unik": "R16" },
+        { "nama": "Siding", "kode_unik": "R17" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kapuas Hulu",
+      "kecamatan": [
+        { "nama": "Badau", "kode_unik": "R18" },
+        { "nama": "Batang Lupar", "kode_unik": "R19" },
+        { "nama": "Bika", "kode_unik": "R20" },
+        { "nama": "Bunut Hilir", "kode_unik": "R21" },
+        { "nama": "Bunut Hulu", "kode_unik": "R22" },
+        { "nama": "Embaloh Hilir", "kode_unik": "R23" },
+        { "nama": "Embaloh Hulu", "kode_unik": "R24" },
+        { "nama": "Empanang", "kode_unik": "R25" },
+        { "nama": "Hulu Gurung", "kode_unik": "R26" },
+        { "nama": "Jongkong", "kode_unik": "R27" },
+        { "nama": "Kalis", "kode_unik": "R28" },
+        { "nama": "Mentebah", "kode_unik": "R29" },
+        { "nama": "Pengkadan", "kode_unik": "R30" },
+        { "nama": "Puring Kencana", "kode_unik": "R31" },
+        { "nama": "Putussibau Selatan", "kode_unik": "R32" },
+        { "nama": "Putussibau Utara", "kode_unik": "R33" },
+        { "nama": "Seberuang", "kode_unik": "R34" },
+        { "nama": "Selimbau", "kode_unik": "R35" },
+        { "nama": "Semitau", "kode_unik": "R36" },
+        { "nama": "Silat Hilir", "kode_unik": "R37" },
+        { "nama": "Silat Hulu", "kode_unik": "R38" },
+        { "nama": "Suhaid", "kode_unik": "R39" },
+        { "nama": "Boyan Tanjung", "kode_unik": "R40" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kayong Utara",
+      "kecamatan": [
+        { "nama": "Simpang Hilir", "kode_unik": "R41" },
+        { "nama": "Sukadana", "kode_unik": "R42" },
+        { "nama": "Teluk Batang", "kode_unik": "R43" },
+        { "nama": "Pulau Maya", "kode_unik": "R44" },
+        { "nama": "Seponti", "kode_unik": "R45" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Ketapang",
+      "kecamatan": [
+        { "nama": "Air Upas", "kode_unik": "R46" },
+        { "nama": "Benua Kayong", "kode_unik": "R47" },
+        { "nama": "Delta Pawan", "kode_unik": "R48" },
+        { "nama": "Hulu Sungai", "kode_unik": "R49" },
+        { "nama": "Jelai Hulu", "kode_unik": "R50" },
+        { "nama": "Kendawangan", "kode_unik": "R51" },
+        { "nama": "Manis Mata", "kode_unik": "R52" },
+        { "nama": "Marau", "kode_unik": "R53" },
+        { "nama": "Matan Hilir Selatan", "kode_unik": "R54" },
+        { "nama": "Matan Hilir Utara", "kode_unik": "R55" },
+        { "nama": "Muara Pawan", "kode_unik": "R56" },
+        { "nama": "Nanga Tayap", "kode_unik": "R57" },
+        { "nama": "Pemahan", "kode_unik": "R58" },
+        { "nama": "Sandai", "kode_unik": "R59" },
+        { "nama": "Sei/Sungai Melayu Rayak", "kode_unik": "R60" },
+        { "nama": "Singu", "kode_unik": "R61" },
+        { "nama": "Sungai Laur", "kode_unik": "R62" },
+        { "nama": "Tumbang Titi", "kode_unik": "R63" },
+        { "nama": "Tanjung Satai", "kode_unik": "R64" },
+        { "nama": "Pesaguan", "kode_unik": "R65" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kubu Raya",
+      "kecamatan": [
+        { "nama": "Batu Ampar", "kode_unik": "R66" },
+        { "nama": "Kubu", "kode_unik": "R67" },
+        { "nama": "Rasau Jaya", "kode_unik": "R68" },
+        { "nama": "Sui/Sungai Ambawang", "kode_unik": "R69" },
+        { "nama": "Sungai Kakap", "kode_unik": "R70" },
+        { "nama": "Sungai Raya", "kode_unik": "R71" },
+        { "nama": "Teluk Pakedai", "kode_unik": "R72" },
+        { "nama": "Terentang", "kode_unik": "R73" },
+        { "nama": "Kuala Mandor B", "kode_unik": "R74" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Landak",
+      "kecamatan": [
+        { "nama": "Air Besar", "kode_unik": "R75" },
+        { "nama": "Banyuke Hulu", "kode_unik": "R76" },
+        { "nama": "Jelimpo", "kode_unik": "R77" },
+        { "nama": "Kuala Behe", "kode_unik": "R78" },
+        { "nama": "Mandor", "kode_unik": "R79" },
+        { "nama": "Mempawah Hulu", "kode_unik": "R80" },
+        { "nama": "Menjalin", "kode_unik": "R81" },
+        { "nama": "Meranti", "kode_unik": "R82" },
+        { "nama": "Ngabang", "kode_unik": "R83" },
+        { "nama": "Sebangki", "kode_unik": "R84" },
+        { "nama": "Sengah Temila", "kode_unik": "R85" },
+        { "nama": "Sompak", "kode_unik": "R86" },
+        { "nama": "Menyuke", "kode_unik": "R87" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Melawi",
+      "kecamatan": [
+        { "nama": "Belimbing", "kode_unik": "R88" },
+        { "nama": "Belimbing Hulu", "kode_unik": "R89" },
+        { "nama": "Ella Hilir", "kode_unik": "R90" },
+        { "nama": "Menukung", "kode_unik": "R91" },
+        { "nama": "Nanga Pinoh", "kode_unik": "R92" },
+        { "nama": "Pinoh Selatan", "kode_unik": "R93" },
+        { "nama": "Pinoh Utara", "kode_unik": "R94" },
+        { "nama": "Sayan", "kode_unik": "R95" },
+        { "nama": "Sokan", "kode_unik": "R96" },
+        { "nama": "Tanah Pinoh", "kode_unik": "R97" },
+        { "nama": "Tanah Pinoh Barat", "kode_unik": "R98" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Mempawah",
+      "kecamatan": [
+        { "nama": "Anjongan", "kode_unik": "R99" },
+        { "nama": "Mempawah Hilir", "kode_unik": "R100" },
+        { "nama": "Mempawah Timur", "kode_unik": "R101" },
+        { "nama": "Sadaniang", "kode_unik": "R102" },
+        { "nama": "Segedong", "kode_unik": "R103" },
+        { "nama": "Siantan", "kode_unik": "R104" },
+        { "nama": "Sungai Kunyit", "kode_unik": "R105" },
+        { "nama": "Sungai Pinyuh", "kode_unik": "R106" },
+        { "nama": "Toho", "kode_unik": "R107" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Sambas",
+      "kecamatan": [
+        { "nama": "Galing", "kode_unik": "R108" },
+        { "nama": "Jawai", "kode_unik": "R109" },
+        { "nama": "Jawai Selatan", "kode_unik": "R110" },
+        { "nama": "Paloh", "kode_unik": "R111" },
+        { "nama": "Pemangkat", "kode_unik": "R112" },
+        { "nama": "Salatiga", "kode_unik": "R113" },
+        { "nama": "Sambas", "kode_unik": "R114" },
+        { "nama": "Sebawi", "kode_unik": "R115" },
+        { "nama": "Sejangkung", "kode_unik": "R116" },
+        { "nama": "Selakau", "kode_unik": "R117" },
+        { "nama": "Selakau Timur", "kode_unik": "R118" },
+        { "nama": "Sajad", "kode_unik": "R119" },
+        { "nama": "Sajingan Besar", "kode_unik": "R120" },
+        { "nama": "Subah", "kode_unik": "R121" },
+        { "nama": "Tangaran", "kode_unik": "R122" },
+        { "nama": "Tebas", "kode_unik": "R123" },
+        { "nama": "Tekarang", "kode_unik": "R124" },
+        { "nama": "Teluk Keramat", "kode_unik": "R125" },
+        { "nama": "Semparuk", "kode_unik": "R126" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Sanggau",
+      "kecamatan": [
+        { "nama": "Balai", "kode_unik": "R127" },
+        { "nama": "Beduwai", "kode_unik": "R128" },
+        { "nama": "Bonti", "kode_unik": "R129" },
+        { "nama": "Entikong", "kode_unik": "R130" },
+        { "nama": "Jangkang", "kode_unik": "R131" },
+        { "nama": "Kapuas", "kode_unik": "R132" },
+        { "nama": "Kembayan", "kode_unik": "R133" },
+        { "nama": "Meliau", "kode_unik": "R134" },
+        { "nama": "Mukok", "kode_unik": "R135" },
+        { "nama": "Noyan", "kode_unik": "R136" },
+        { "nama": "Parindu", "kode_unik": "R137" },
+        { "nama": "Sekayam", "kode_unik": "R138" },
+        { "nama": "Tayan Hilir", "kode_unik": "R139" },
+        { "nama": "Tayan Hulu", "kode_unik": "R140" },
+        { "nama": "Toba", "kode_unik": "R141" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Sekadau",
+      "kecamatan": [
+        { "nama": "Belitang", "kode_unik": "R142" },
+        { "nama": "Belitang Hilir", "kode_unik": "R143" },
+        { "nama": "Belitang Hulu", "kode_unik": "R144" },
+        { "nama": "Nanga Mahap", "kode_unik": "R145" },
+        { "nama": "Nanga Taman", "kode_unik": "R146" },
+        { "nama": "Sekadau Hilir", "kode_unik": "R147" },
+        { "nama": "Sekadau Hulu", "kode_unik": "R148" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Sintang",
+      "kecamatan": [
+        { "nama": "Ambalau", "kode_unik": "R149" },
+        { "nama": "Binjai Hulu", "kode_unik": "R150" },
+        { "nama": "Dedai", "kode_unik": "R151" },
+        { "nama": "Kayan Hilir", "kode_unik": "R152" },
+        { "nama": "Kayan Hulu", "kode_unik": "R153" },
+        { "nama": "Kelam Permai", "kode_unik": "R154" },
+        { "nama": "Ketungau Hilir", "kode_unik": "R155" },
+        { "nama": "Ketungau Hulu", "kode_unik": "R156" },
+        { "nama": "Ketungau Tengah", "kode_unik": "R157" },
+        { "nama": "Sepauk", "kode_unik": "R158" },
+        { "nama": "Serawai", "kode_unik": "R159" },
+        { "nama": "Sintang", "kode_unik": "R160" },
+        { "nama": "Sungai Tebelian", "kode_unik": "R161" },
+        { "nama": "Tempunak", "kode_unik": "R162" }
+      ]
+    },
+    {
+      "nama": "Kota Pontianak",
+      "kecamatan": [
+        { "nama": "Pontianak Barat", "kode_unik": "R163" },
+        { "nama": "Pontianak Kota", "kode_unik": "R164" },
+        { "nama": "Pontianak Selatan", "kode_unik": "R165" },
+        { "nama": "Pontianak Tenggara", "kode_unik": "R166" },
+        { "nama": "Pontianak Timur", "kode_unik": "R167" },
+        { "nama": "Pontianak Utara", "kode_unik": "R168" }
+      ]
+    },
+    {
+      "nama": "Kota Singkawang",
+      "kecamatan": [
+        { "nama": "Singkawang Barat", "kode_unik": "R169" },
+        { "nama": "Singkawang Selatan", "kode_unik": "R170" },
+        { "nama": "Singkawang Tengah", "kode_unik": "R171" },
+        { "nama": "Singkawang Timur", "kode_unik": "R172" },
+        { "nama": "Singkawang Utara", "kode_unik": "R173" }
+      ]
+    }
+  ]
+}

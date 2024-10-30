@@ -1,0 +1,79 @@
+{
+  "provinsi": "Jakarta",
+  "kabupaten": [
+    {
+      "nama": "Kota Administrasi Jakarta Pusat",
+      "kecamatan": [
+        { "nama": "Gambir", "kode_unik": "B01" },
+        { "nama": "Tanah Abang", "kode_unik": "B02" },
+        { "nama": "Menteng", "kode_unik": "B03" },
+        { "nama": "Senen", "kode_unik": "B04" },
+        { "nama": "Cempaka Putih", "kode_unik": "B05" },
+        { "nama": "Johar Baru", "kode_unik": "B06" },
+        { "nama": "Kemayoran", "kode_unik": "B07" },
+        { "nama": "Sawah Besar", "kode_unik": "B08" }
+      ]
+    },
+    {
+      "nama": "Kota Administrasi Jakarta Utara",
+      "kecamatan": [
+        { "nama": "Cilincing", "kode_unik": "B09" },
+        { "nama": "Koja", "kode_unik": "B10" },
+        { "nama": "Kelapa Gading", "kode_unik": "B11" },
+        { "nama": "Tanjung Priok", "kode_unik": "B12" },
+        { "nama": "Pademangan", "kode_unik": "B13" },
+        { "nama": "Penjaringan", "kode_unik": "B14" }
+      ]
+    },
+    {
+      "nama": "Kota Administrasi Jakarta Barat",
+      "kecamatan": [
+        { "nama": "Cengkareng", "kode_unik": "B15" },
+        { "nama": "Grogol Petamburan", "kode_unik": "B16" },
+        { "nama": "Taman Sari", "kode_unik": "B17" },
+        { "nama": "Tambora", "kode_unik": "B18" },
+        { "nama": "Kebon Jeruk", "kode_unik": "B19" },
+        { "nama": "Kalideres", "kode_unik": "B20" },
+        { "nama": "Palmerah", "kode_unik": "B21" },
+        { "nama": "Kembangan", "kode_unik": "B22" }
+      ]
+    },
+    {
+      "nama": "Kota Administrasi Jakarta Timur",
+      "kecamatan": [
+        { "nama": "Matraman", "kode_unik": "B23" },
+        { "nama": "Pulo Gadung", "kode_unik": "B24" },
+        { "nama": "Jatinegara", "kode_unik": "B25" },
+        { "nama": "Duren Sawit", "kode_unik": "B26" },
+        { "nama": "Kramat Jati", "kode_unik": "B27" },
+        { "nama": "Pasar Rebo", "kode_unik": "B28" },
+        { "nama": "Cipayung", "kode_unik": "B29" },
+        { "nama": "Makasar", "kode_unik": "B30" },
+        { "nama": "Ciracas", "kode_unik": "B31" },
+        { "nama": "Cakung", "kode_unik": "B32" }
+      ]
+    },
+    {
+      "nama": "Kota Administrasi Jakarta Selatan",
+      "kecamatan": [
+        { "nama": "Kebayoran Baru", "kode_unik": "B33" },
+        { "nama": "Kebayoran Lama", "kode_unik": "B34" },
+        { "nama": "Pesanggrahan", "kode_unik": "B35" },
+        { "nama": "Cilandak", "kode_unik": "B36" },
+        { "nama": "Pasar Minggu", "kode_unik": "B37" },
+        { "nama": "Jagakarsa", "kode_unik": "B38" },
+        { "nama": "Mampang Prapatan", "kode_unik": "B39" },
+        { "nama": "Pancoran", "kode_unik": "B40" },
+        { "nama": "Tebet", "kode_unik": "B41" },
+        { "nama": "Setiabudi", "kode_unik": "B42" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Administrasi Kepulauan Seribu",
+      "kecamatan": [
+        { "nama": "Kepulauan Seribu Utara", "kode_unik": "B43" },
+        { "nama": "Kepulauan Seribu Selatan", "kode_unik": "B44" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "provinsi": "Kepulauan Bangka Belitung",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Bangka",
+      "kecamatan": [
+        { "nama": "Belinyu", "kode_unik": "K01" },
+        { "nama": "Bakam", "kode_unik": "K02" },
+        { "nama": "Mendo Barat", "kode_unik": "K03" },
+        { "nama": "Merawang", "kode_unik": "K04" },
+        { "nama": "Pemali", "kode_unik": "K05" },
+        { "nama": "Puding Besar", "kode_unik": "K06" },
+        { "nama": "Riau Silip", "kode_unik": "K07" },
+        { "nama": "Sungailiat", "kode_unik": "K08" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Bangka Barat",
+      "kecamatan": [
+        { "nama": "Jebus", "kode_unik": "K09" },
+        { "nama": "Kelapa", "kode_unik": "K10" },
+        { "nama": "Mentok", "kode_unik": "K11" },
+        { "nama": "Parittiga", "kode_unik": "K12" },
+        { "nama": "Simpang Teritip", "kode_unik": "K13" },
+        { "nama": "Tempilang", "kode_unik": "K14" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Bangka Selatan",
+      "kecamatan": [
+        { "nama": "Air Gegas", "kode_unik": "K15" },
+        { "nama": "Kepulauan Pongok", "kode_unik": "K16" },
+        { "nama": "Lepar Pongok", "kode_unik": "K17" },
+        { "nama": "Payung", "kode_unik": "K18" },
+        { "nama": "Pulau Besar", "kode_unik": "K19" },
+        { "nama": "Simpang Rimba", "kode_unik": "K20" },
+        { "nama": "Toboali", "kode_unik": "K21" },
+        { "nama": "Tukak Sadai", "kode_unik": "K22" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Bangka Tengah",
+      "kecamatan": [
+        { "nama": "Koba", "kode_unik": "K23" },
+        { "nama": "Lubuk Besar", "kode_unik": "K24" },
+        { "nama": "Namang", "kode_unik": "K25" },
+        { "nama": "Pangkalan Baru", "kode_unik": "K26" },
+        { "nama": "Simpang Katis", "kode_unik": "K27" },
+        { "nama": "Sungai Selan", "kode_unik": "K28" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Belitung",
+      "kecamatan": [
+        { "nama": "Badau", "kode_unik": "K29" },
+        { "nama": "Membalong", "kode_unik": "K30" },
+        { "nama": "Selat Nasik", "kode_unik": "K31" },
+        { "nama": "Sijuk", "kode_unik": "K32" },
+        { "nama": "Tanjung Pandan", "kode_unik": "K33" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Belitung Timur",
+      "kecamatan": [
+        { "nama": "Damar", "kode_unik": "K34" },
+        { "nama": "Dendang", "kode_unik": "K35" },
+        { "nama": "Gantung", "kode_unik": "K36" },
+        { "nama": "Kelapa Kampit", "kode_unik": "K37" },
+        { "nama": "Manggar", "kode_unik": "K38" },
+        { "nama": "Simpang Pesak", "kode_unik": "K39" },
+        { "nama": "Simpang Renggiang", "kode_unik": "K40" }
+      ]
+    },
+    {
+      "nama": "Kota Pangkal Pinang",
+      "kecamatan": [
+        { "nama": "Bukit Intan", "kode_unik": "K41" },
+        { "nama": "Gabek", "kode_unik": "K42" },
+        { "nama": "Gerunggang", "kode_unik": "K43" },
+        { "nama": "Girimaya", "kode_unik": "K44" },
+        { "nama": "Pangkal Balam", "kode_unik": "K45" },
+        { "nama": "Rangkui", "kode_unik": "K46" },
+        { "nama": "Taman Sari", "kode_unik": "K47" }
+      ]
+    }
+  ]
+}

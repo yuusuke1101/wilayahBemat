@@ -1,0 +1,607 @@
+{
+  "provinsi": "Sumatera Selatan",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Asahan",
+      "kecamatan": [
+        { "nama": "Air Batu", "kode_unik": "H01" },
+        { "nama": "Air Joman", "kode_unik": "H02" },
+        { "nama": "Bandar Pasir Mandoge", "kode_unik": "H03" },
+        { "nama": "Bandar Pulau", "kode_unik": "H04" },
+        { "nama": "Buntu Pane", "kode_unik": "H05" },
+        { "nama": "Kisaran Barat", "kode_unik": "H06" },
+        { "nama": "Kisaran Timur", "kode_unik": "H07" },
+        { "nama": "Meranti", "kode_unik": "H08" },
+        { "nama": "Pulo Bandring", "kode_unik": "H09" },
+        { "nama": "Rahuning", "kode_unik": "H10" },
+        { "nama": "Rawang Panca Arga", "kode_unik": "H11" },
+        { "nama": "Sei Dadap", "kode_unik": "H12" },
+        { "nama": "Sei Kepayang", "kode_unik": "H13" },
+        { "nama": "Sei Kepayang Barat", "kode_unik": "H14" },
+        { "nama": "Sei Kepayang Timur", "kode_unik": "H15" },
+        { "nama": "Setia Janji", "kode_unik": "H16" },
+        { "nama": "Simpang Empat", "kode_unik": "H17" },
+        { "nama": "Silau Laut", "kode_unik": "H18" },
+        { "nama": "Tinggi Raja", "kode_unik": "H19" },
+        { "nama": "Tanjung Balai", "kode_unik": "H20" },
+        { "nama": "Teluk Dalam", "kode_unik": "H21" },
+        { "nama": "Aek Kuasan", "kode_unik": "H22" },
+        { "nama": "Aek Songsongan", "kode_unik": "H23" },
+        { "nama": "Aek Ledong", "kode_unik": "H24" },
+        { "nama": "Bandar Pulo", "kode_unik": "H25" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Batu Bara",
+      "kecamatan": [
+        { "nama": "Air Putih", "kode_unik": "H26" },
+        { "nama": "Datuk Lima Puluh", "kode_unik": "H27" },
+        { "nama": "Lima Puluh", "kode_unik": "H28" },
+        { "nama": "Medang Deras", "kode_unik": "H29" },
+        { "nama": "Sei Balai", "kode_unik": "H30" },
+        { "nama": "Sei Suka", "kode_unik": "H31" },
+        { "nama": "Talawi", "kode_unik": "H32" },
+        { "nama": "Tanjung Tiram", "kode_unik": "H33" },
+        { "nama": "Lima Puluh Pesisir", "kode_unik": "H34" },
+        { "nama": "Nibung Hangus", "kode_unik": "H35" },
+        { "nama": "Datuk Tanah Datar", "kode_unik": "H36" },
+        { "nama": "Laut Tador", "kode_unik": "H37" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Dairi",
+      "kecamatan": [
+        { "nama": "Berampu", "kode_unik": "H38" },
+        { "nama": "Gunung Sitember", "kode_unik": "H39" },
+        { "nama": "Lae Parira", "kode_unik": "H40" },
+        { "nama": "Parbuluan", "kode_unik": "H41" },
+        { "nama": "Sidikalang", "kode_unik": "H42" },
+        { "nama": "Sitinjo", "kode_unik": "H43" },
+        { "nama": "Sumbul", "kode_unik": "H44" },
+        { "nama": "Tanah Pinem", "kode_unik": "H45" },
+        { "nama": "Tigalingga", "kode_unik": "H46" },
+        { "nama": "Silima Pungga-Pungga", "kode_unik": "H47" },
+        { "nama": "Siempat Nempu", "kode_unik": "H48" },
+        { "nama": "Siempat Nempu Hulu", "kode_unik": "H49" },
+        { "nama": "Siempat Nempu Hilir", "kode_unik": "H50" },
+        { "nama": "Pegagan Hilir", "kode_unik": "H51" },
+        { "nama": "Parbuluan", "kode_unik": "H52" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Deli Serdang",
+      "kecamatan": [
+        { "nama": "Batang Kuis", "kode_unik": "H53" },
+        { "nama": "Beringin", "kode_unik": "H54" },
+        { "nama": "Deli Tua", "kode_unik": "H55" },
+        { "nama": "Galang", "kode_unik": "H56" },
+        { "nama": "Hamparan Perak", "kode_unik": "H57" },
+        { "nama": "Kutalimbaru", "kode_unik": "H58" },
+        { "nama": "Labuhan Deli", "kode_unik": "H59" },
+        { "nama": "Lubuk Pakam", "kode_unik": "H60" },
+        { "nama": "Namo Rambe", "kode_unik": "H61" },
+        { "nama": "Pancur Batu", "kode_unik": "H62" },
+        { "nama": "Pantai Labu", "kode_unik": "H63" },
+        { "nama": "Patumbak", "kode_unik": "H64" },
+        { "nama": "Percut Sei Tuan", "kode_unik": "H65" },
+        { "nama": "Sibolangit", "kode_unik": "H66" },
+        { "nama": "Sinembah Tanjung Muda Hilir", "kode_unik": "H67" },
+        { "nama": "Sinembah Tanjung Muda Hulu", "kode_unik": "H68" },
+        { "nama": "Sunggal", "kode_unik": "H69" },
+        { "nama": "Tanjung Morawa", "kode_unik": "H70" },
+        { "nama": "Bangun Purba", "kode_unik": "H71" },
+        { "nama": "STM Hulu", "kode_unik": "H72" },
+        { "nama": "STM Hilir", "kode_unik": "H73" },
+        { "nama": "Sibiru-biru", "kode_unik": "H74" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Karo",
+      "kecamatan": [
+        { "nama": "Barusjahe", "kode_unik": "H85" },
+        { "nama": "Berastagi", "kode_unik": "H86" },
+        { "nama": "Dolat Rayat", "kode_unik": "H87" },
+        { "nama": "Juhar", "kode_unik": "H88" },
+        { "nama": "Kabanjahe", "kode_unik": "H89" },
+        { "nama": "Kuta Buluh", "kode_unik": "H90" },
+        { "nama": "Laubaleng", "kode_unik": "H91" },
+        { "nama": "Mardingding", "kode_unik": "H92" },
+        { "nama": "Merek", "kode_unik": "H93" },
+        { "nama": "Merdeka", "kode_unik": "H94" },
+        { "nama": "Payung", "kode_unik": "H95" },
+        { "nama": "Simpang Empat", "kode_unik": "H96" },
+        { "nama": "Tiga Binanga", "kode_unik": "H97" },
+        { "nama": "Tiga Panah", "kode_unik": "H98" },
+        { "nama": "Tiganderket", "kode_unik": "H99" },
+        { "nama": "Kutabuluh", "kode_unik": "H100" },
+        { "nama": "Naman Teran", "kode_unik": "H101" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Labuhanbatu",
+      "kecamatan": [
+        { "nama": "Bilah Barat", "kode_unik": "H102" },
+        { "nama": "Bilah Hilir", "kode_unik": "H103" },
+        { "nama": "Bilah Hulu", "kode_unik": "H104" },
+        { "nama": "Panai Hilir", "kode_unik": "H105" },
+        { "nama": "Panai Tengah", "kode_unik": "H106" },
+        { "nama": "Panai Hulu", "kode_unik": "H107" },
+        { "nama": "Pangkatan", "kode_unik": "H108" },
+        { "nama": "Rantau Selatan", "kode_unik": "H109" },
+        { "nama": "Rantau Utara", "kode_unik": "H110" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Labuhanbatu Selatan",
+      "kecamatan": [
+        { "nama": "Kampung Rakyat", "kode_unik": "H111" },
+        { "nama": "Kotapinang", "kode_unik": "H112" },
+        { "nama": "Sei Kanan", "kode_unik": "H113" },
+        { "nama": "Silangkitang", "kode_unik": "H114" },
+        { "nama": "Torgamba", "kode_unik": "H115" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Labuhanbatu Utara",
+      "kecamatan": [
+        { "nama": "Aek Kuo", "kode_unik": "H116" },
+        { "nama": "Aek Natas", "kode_unik": "H117" },
+        { "nama": "Kualuh Hilir", "kode_unik": "H118" },
+        { "nama": "Kualuh Hulu", "kode_unik": "H119" },
+        { "nama": "Kualuh Leidong", "kode_unik": "H120" },
+        { "nama": "Kualuh Selatan", "kode_unik": "H121" },
+        { "nama": "Marbau", "kode_unik": "H122" },
+        { "nama": "Na IX-X", "kode_unik": "H123" }
+      ]
+    },
+     {
+      "nama": "Kabupaten Langkat",
+      "kecamatan": [
+        { "nama": "Bahorok", "kode_unik": "H124" },
+        { "nama": "Batang Serangan", "kode_unik": "H125" },
+        { "nama": "Besitang", "kode_unik": "H126" },
+        { "nama": "Binjai", "kode_unik": "H127" },
+        { "nama": "Brandan Barat", "kode_unik": "H128" },
+        { "nama": "Gebang", "kode_unik": "H129" },
+        { "nama": "Hinai", "kode_unik": "H130" },
+        { "nama": "Kuala", "kode_unik": "H131" },
+        { "nama": "Kutambaru", "kode_unik": "H132" },
+        { "nama": "Pangkalan Susu", "kode_unik": "H133" },
+        { "nama": "Pematang Jaya", "kode_unik": "H134" },
+        { "nama": "Salapian", "kode_unik": "H135" },
+        { "nama": "Sawit Seberang", "kode_unik": "H136" },
+        { "nama": "Secanggang", "kode_unik": "H137" },
+        { "nama": "Sei Bingai", "kode_unik": "H138" },
+        { "nama": "Sei Lepan", "kode_unik": "H139" },
+        { "nama": "Selesai", "kode_unik": "H140" },
+        { "nama": "Sirapit", "kode_unik": "H141" },
+        { "nama": "Stabat", "kode_unik": "H142" },
+        { "nama": "Tanjung Pura", "kode_unik": "H143" },
+        { "nama": "Wampu", "kode_unik": "H144" },
+        { "nama": "Batang Serangan", "kode_unik": "H145" },
+        { "nama": "Bahorok", "kode_unik": "H146" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Mandailing Natal",
+      "kecamatan": [
+        { "nama": "Batahan", "kode_unik": "H147" },
+        { "nama": "Batang Natal", "kode_unik": "H148" },
+        { "nama": "Bukit Malintang", "kode_unik": "H149" },
+        { "nama": "Hutabargot", "kode_unik": "H150" },
+        { "nama": "Kotanopan", "kode_unik": "H151" },
+        { "nama": "Lembah Sorik Marapi", "kode_unik": "H152" },
+        { "nama": "Lingga Bayu", "kode_unik": "H153" },
+        { "nama": "Muara Batang Gadis", "kode_unik": "H154" },
+        { "nama": "Muara Sipongi", "kode_unik": "H155" },
+        { "nama": "Naga Juang", "kode_unik": "H156" },
+        { "nama": "Natal", "kode_unik": "H157" },
+        { "nama": "Pakantan", "kode_unik": "H158" },
+        { "nama": "Panyabungan", "kode_unik": "H159" },
+        { "nama": "Panyabungan Barat", "kode_unik": "H160" },
+        { "nama": "Panyabungan Selatan", "kode_unik": "H161" },
+        { "nama": "Panyabungan Timur", "kode_unik": "H162" },
+        { "nama": "Panyabungan Utara", "kode_unik": "H163" },
+        { "nama": "Siabu", "kode_unik": "H164" },
+        { "nama": "Sinunukan", "kode_unik": "H165" },
+        { "nama": "Tambangan", "kode_unik": "H166" },
+        { "nama": "Ulu Pungkut", "kode_unik": "H167" },
+        { "nama": "Ranto Baek", "kode_unik": "H168" },
+        { "nama": "Puncak Sorik Marapi", "kode_unik": "H169" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Nias",
+      "kecamatan": [
+        { "nama": "Bawolato", "kode_unik": "H170" },
+        { "nama": "Botomuzoi", "kode_unik": "H171" },
+        { "nama": "Gido", "kode_unik": "H172" },
+        { "nama": "Hiliduho", "kode_unik": "H173" },
+        { "nama": "Idanogawo", "kode_unik": "H174" },
+        { "nama": "Ma'u", "kode_unik": "H175" },
+        { "nama": "Somolo-molo", "kode_unik": "H176" },
+        { "nama": "Sogaeadu", "kode_unik": "H177" },
+        { "nama": "Ulugawo", "kode_unik": "H178" },
+        { "nama": "Alasa", "kode_unik": "H179" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Nias Barat",
+      "kecamatan": [
+        { "nama": "Lahomi", "kode_unik": "H180" },
+        { "nama": "Lolofitu Moi", "kode_unik": "H181" },
+        { "nama": "Mandrehe", "kode_unik": "H182" },
+        { "nama": "Mandrehe Barat", "kode_unik": "H183" },
+        { "nama": "Mandrehe Utara", "kode_unik": "H184" },
+        { "nama": "Moro'o", "kode_unik": "H185" },
+        { "nama": "Sirombu", "kode_unik": "H186" },
+        { "nama": "Ulu Moro'o", "kode_unik": "H187" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Nias Selatan",
+      "kecamatan": [
+        { "nama": "Amandraya", "kode_unik": "H188" },
+        { "nama": "Aramo", "kode_unik": "H189" },
+        { "nama": "Bawolato", "kode_unik": "H190" },
+        { "nama": "Fanayama", "kode_unik": "H191" },
+        { "nama": "Gomo", "kode_unik": "H192" },
+        { "nama": "Hibala", "kode_unik": "H193" },
+        { "nama": "Hilimegai", "kode_unik": "H194" },
+        { "nama": "Huruna", "kode_unik": "H195" },
+        { "nama": "Lahusa", "kode_unik": "H196" },
+        { "nama": "Lolowau", "kode_unik": "H197" },
+        { "nama": "Luahagundre Maniamolo", "kode_unik": "H198" },
+        { "nama": "Maniamolo", "kode_unik": "H199" },
+        { "nama": "Mazino", "kode_unik": "H200" },
+        { "nama": "Mazo", "kode_unik": "H201" },
+        { "nama": "Onohazumba", "kode_unik": "H202" },
+        { "nama": "O'o'u", "kode_unik": "H203" },
+        { "nama": "Pulau-pulau Batu", "kode_unik": "H204" },
+        { "nama": "Pulau-pulau Batu Barat", "kode_unik": "H205" },
+        { "nama": "Pulau-pulau Batu Timur", "kode_unik": "H206" },
+        { "nama": "Pulau-pulau Batu Utara", "kode_unik": "H207" },
+        { "nama": "Sidua'ori", "kode_unik": "H208" },
+        { "nama": "Simuk", "kode_unik": "H209" },
+        { "nama": "Somambawa", "kode_unik": "H210" },
+        { "nama": "Susua", "kode_unik": "H211" },
+        { "nama": "Teluk Dalam", "kode_unik": "H212" },
+        { "nama": "Toma", "kode_unik": "H213" },
+        { "nama": "Ulunoyo", "kode_unik": "H214" },
+        { "nama": "Umbunasi", "kode_unik": "H215" },
+        { "nama": "Ulususua", "kode_unik": "H216" },
+        { "nama": "Hilisalawa'ahe", "kode_unik": "H217" },
+        { "nama": "Hiligeho", "kode_unik": "H218" },
+        { "nama": "Lolomatua", "kode_unik": "H219" },
+        { "nama": "Hilisondrekha", "kode_unik": "H220" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Nias Utara",
+      "kecamatan": [
+        { "nama": "Alasa", "kode_unik": "H221" },
+        { "nama": "Alasa Talumuzoi", "kode_unik": "H222" },
+        { "nama": "Afulu", "kode_unik": "H223" },
+        { "nama": "Lahewa", "kode_unik": "H224" },
+        { "nama": "Lahewa Timur", "kode_unik": "H225" },
+        { "nama": "Lotu", "kode_unik": "H226" },
+        { "nama": "Namohalu Esiwa", "kode_unik": "H227" },
+        { "nama": "Sawo", "kode_unik": "H228" },
+        { "nama": "Sitolu Ori", "kode_unik": "H229" },
+        { "nama": "Tugala Oyo", "kode_unik": "H230" },
+        { "nama": "Tuhemberua", "kode_unik": "H231" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Padang Lawas",
+      "kecamatan": [
+        { "nama": "Aek Nabara Barumun", "kode_unik": "H232" },
+        { "nama": "Barumun", "kode_unik": "H233" },
+        { "nama": "Barumun Selatan", "kode_unik": "H234" },
+        { "nama": "Barumun Tengah", "kode_unik": "H235" },
+        { "nama": "Batang Lubu Sutam", "kode_unik": "H236" },
+        { "nama": "Huta Raja Tinggi", "kode_unik": "H237" },
+        { "nama": "Huristak", "kode_unik": "H238" },
+        { "nama": "Lubuk Barumun", "kode_unik": "H239" },
+        { "nama": "Sihapas Barumun", "kode_unik": "H240" },
+        { "nama": "Sosa", "kode_unik": "H241" },
+        { "nama": "Sosopan", "kode_unik": "H242" },
+        { "nama": "Sungai Kanan", "kode_unik": "H243" },
+        { "nama": "Ulu Barumun", "kode_unik": "H244" },
+        { "nama": "Ujung Batu", "kode_unik": "H245" },
+        { "nama": "Sosa Julu", "kode_unik": "H246" },
+        { "nama": "Binanga", "kode_unik": "H247" },
+        { "nama": "Aek Buaya", "kode_unik": "H248" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Padang Lawas Utara",
+      "kecamatan": [
+        { "nama": "Batang Onang", "kode_unik": "H249" },
+        { "nama": "Dolok", "kode_unik": "H250" },
+        { "nama": "Dolok Sigompulon", "kode_unik": "H251" },
+        { "nama": "Halongonan", "kode_unik": "H252" },
+        { "nama": "Halongonan Timur", "kode_unik": "H253" },
+        { "nama": "Padang Bolak", "kode_unik": "H254" },
+        { "nama": "Padang Bolak Julu", "kode_unik": "H255" },
+        { "nama": "Portibi", "kode_unik": "H256" },
+        { "nama": "Simangambat", "kode_unik": "H257" },
+        { "nama": "Ujung Batu", "kode_unik": "H258" },
+        { "nama": "Batang Onang", "kode_unik": "H259" },
+        { "nama": "Padang Sidempuan Julu", "kode_unik": "H260" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Pakpak Bharat",
+      "kecamatan": [
+        { "nama": "Kerajaan", "kode_unik": "H261" },
+        { "nama": "Pagindar", "kode_unik": "H262" },
+        { "nama": "Pergetteng-getteng Sengkut", "kode_unik": "H263" },
+        { "nama": "Salak", "kode_unik": "H264" },
+        { "nama": "Sitellu Tali Urang Julu", "kode_unik": "H265" },
+        { "nama": "Sitellu Tali Urang Jehe", "kode_unik": "H266" },
+        { "nama": "Tinada", "kode_unik": "H267" },
+        { "nama": "Siempat Rube", "kode_unik": "H268" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Samosir",
+      "kecamatan": [
+        { "nama": "Harian", "kode_unik": "H269" },
+        { "nama": "Nainggolan", "kode_unik": "H270" },
+        { "nama": "Onan Runggu", "kode_unik": "H271" },
+        { "nama": "Palipi", "kode_unik": "H272" },
+        { "nama": "Pangururan", "kode_unik": "H273" },
+        { "nama": "Ronggur Nihuta", "kode_unik": "H274" },
+        { "nama": "Sianjur Mulamula", "kode_unik": "H275" },
+        { "nama": "Simanindo", "kode_unik": "H276" },
+        { "nama": "Sitio-tio", "kode_unik": "H277" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Serdang Bedagai",
+      "kecamatan": [
+        { "nama": "Bintang Bayu", "kode_unik": "H278" },
+        { "nama": "Dolok Masihul", "kode_unik": "H279" },
+        { "nama": "Dolok Merawan", "kode_unik": "H280" },
+        { "nama": "Kotarih", "kode_unik": "H281" },
+        { "nama": "Pegajahan", "kode_unik": "H282" },
+        { "nama": "Perbaungan", "kode_unik": "H283" },
+        { "nama": "Sei Bamban", "kode_unik": "H284" },
+        { "nama": "Sei Rampah", "kode_unik": "H285" },
+        { "nama": "Serbajadi", "kode_unik": "H286" },
+        { "nama": "Silinda", "kode_unik": "H287" },
+        { "nama": "Sipispis", "kode_unik": "H288" },
+        { "nama": "Tebing Syahbandar", "kode_unik": "H289" },
+        { "nama": "Tebing Tinggi", "kode_unik": "H290" },
+        { "nama": "Teluk Mengkudu", "kode_unik": "H291" },
+        { "nama": "Tanjung Beringin", "kode_unik": "H292" },
+        { "nama": "Bandar Khalipah", "kode_unik": "H293" },
+        { "nama": "Pantai Cermin", "kode_unik": "H294" }
+      ]
+    },
+	{
+	  "nama": "Kabupaten Simalungun",
+	  "kecamatan": [
+		{ "nama": "Bandar", "kode_unik": "H295" },
+		{ "nama": "Bandar Huluan", "kode_unik": "H296" },
+		{ "nama": "Bandar Masilam", "kode_unik": "H297" },
+		{ "nama": "Bosar Maligas", "kode_unik": "H298" },
+		{ "nama": "Dolok Batu Nanggar", "kode_unik": "H299" },
+		{ "nama": "Dolok Panribuan", "kode_unik": "H300" },
+		{ "nama": "Dolok Pardamean", "kode_unik": "H301" },
+		{ "nama": "Dolok Silau", "kode_unik": "H302" },
+		{ "nama": "Girsang Sipangan Bolon", "kode_unik": "H303" },
+		{ "nama": "Gunung Malela", "kode_unik": "H304" },
+		{ "nama": "Gunung Maligas", "kode_unik": "H305" },
+		{ "nama": "Haranggaol Horisan", "kode_unik": "H306" },
+		{ "nama": "Hatonduhan", "kode_unik": "H307" },
+		{ "nama": "Jawa Maraja Bah Jambi", "kode_unik": "H308" },
+		{ "nama": "Jorlang Hataran", "kode_unik": "H309" },
+		{ "nama": "Panombeian Panei", "kode_unik": "H310" },
+		{ "nama": "Panei", "kode_unik": "H311" },
+		{ "nama": "Purba", "kode_unik": "H312" },
+		{ "nama": "Raya", "kode_unik": "H313" },
+		{ "nama": "Raya Kahean", "kode_unik": "H314" },
+		{ "nama": "Siantar", "kode_unik": "H315" },
+		{ "nama": "Siantar Marihat", "kode_unik": "H316" },
+		{ "nama": "Siantar Martoba", "kode_unik": "H317" },
+		{ "nama": "Sidamanik", "kode_unik": "H318" },
+		{ "nama": "Silau Kahean", "kode_unik": "H319" },
+		{ "nama": "Tanah Jawa", "kode_unik": "H320" },
+		{ "nama": "Tapian Dolok", "kode_unik": "H321" },
+		{ "nama": "Ujung Padang", "kode_unik": "H322" },
+		{ "nama": "Huta Bayu Raja", "kode_unik": "H323" },
+		{ "nama": "Bandar Maruhur", "kode_unik": "H324" },
+		{ "nama": "Lintang Batu", "kode_unik": "H325" },
+		{ "nama": "Mariah Bandar", "kode_unik": "H326" }
+	  ]
+	},
+	{
+	  "nama": "Kabupaten Tapanuli Selatan",
+	  "kecamatan": [
+		{ "nama": "Angkola Barat", "kode_unik": "H327" },
+		{ "nama": "Angkola Sangkunur", "kode_unik": "H328" },
+		{ "nama": "Angkola Selatan", "kode_unik": "H329" },
+		{ "nama": "Angkola Timur", "kode_unik": "H330" },
+		{ "nama": "Batang Angkola", "kode_unik": "H331" },
+		{ "nama": "Batang Toru", "kode_unik": "H332" },
+		{ "nama": "Marancar", "kode_unik": "H333" },
+		{ "nama": "Muara Batang Toru", "kode_unik": "H334" },
+		{ "nama": "Saipar Dolok Hole", "kode_unik": "H335" },
+		{ "nama": "Sipirok", "kode_unik": "H336" },
+		{ "nama": "Tano Tombangan Angkola", "kode_unik": "H337" },
+		{ "nama": "Arse", "kode_unik": "H338" },
+		{ "nama": "Aek Bilah", "kode_unik": "H339" },
+		{ "nama": "Muara Angkola", "kode_unik": "H341" }
+	  ]
+	},
+	{
+	  "nama": "Kabupaten Tapanuli Tengah",
+	  "kecamatan": [
+		{ "nama": "Andam Dewi", "kode_unik": "H342" },
+		{ "nama": "Badiri", "kode_unik": "H343" },
+		{ "nama": "Barus", "kode_unik": "H344" },
+		{ "nama": "Barus Utara", "kode_unik": "H345" },
+		{ "nama": "Kolang", "kode_unik": "H346" },
+		{ "nama": "Lumut", "kode_unik": "H347" },
+		{ "nama": "Manduamas", "kode_unik": "H348" },
+		{ "nama": "Pasaribu Tobing", "kode_unik": "H349" },
+		{ "nama": "Pinangsori", "kode_unik": "H350" },
+		{ "nama": "Sarudik", "kode_unik": "H351" },
+		{ "nama": "Sorkam", "kode_unik": "H352" },
+		{ "nama": "Sorkam Barat", "kode_unik": "H353" },
+		{ "nama": "Sosor Gadong", "kode_unik": "H354" },
+		{ "nama": "Sitahuis", "kode_unik": "H355" },
+		{ "nama": "Sibabangun", "kode_unik": "H356" },
+		{ "nama": "Sirandorung", "kode_unik": "H357" },
+		{ "nama": "Sirandorung Barat", "kode_unik": "H358" },
+		{ "nama": "Tapian Nauli", "kode_unik": "H359" },
+		{ "nama": "Tukka", "kode_unik": "H360" },
+		{ "nama": "Pandan", "kode_unik": "H361" }
+	  ]
+	},
+	{
+	  "nama": "Kabupaten Tapanuli Utara",
+	  "kecamatan": [
+		{ "nama": "Adian Koting", "kode_unik": "H362" },
+		{ "nama": "Garoga", "kode_unik": "H363" },
+		{ "nama": "Muara", "kode_unik": "H364" },
+		{ "nama": "Pagaran", "kode_unik": "H365" },
+		{ "nama": "Pahae Jae", "kode_unik": "H366" },
+		{ "nama": "Pahae Julu", "kode_unik": "H367" },
+		{ "nama": "Parmonangan", "kode_unik": "H368" },
+		{ "nama": "Purbatua", "kode_unik": "H369" },
+		{ "nama": "Siborong-Borong", "kode_unik": "H370" },
+		{ "nama": "Sipoholon", "kode_unik": "H371" },
+		{ "nama": "Simangumban", "kode_unik": "H372" },
+		{ "nama": "Tarutung", "kode_unik": "H373" },
+		{ "nama": "Siatas Barita", "kode_unik": "H374" },
+		{ "nama": "Sitoluama", "kode_unik": "H375" },
+		{ "nama": "Pangaribuan", "kode_unik": "H376" }
+	  ]
+	},
+	{
+	  "nama": "Kabupaten Toba",
+	  "kecamatan": [
+		{ "nama": "Ajibata", "kode_unik": "H377" },
+		{ "nama": "Balige", "kode_unik": "H378" },
+		{ "nama": "Bonatua Lunasi", "kode_unik": "H379" },
+		{ "nama": "Borbor", "kode_unik": "H380" },
+		{ "nama": "Habinsaran", "kode_unik": "H381" },
+		{ "nama": "Laguboti", "kode_unik": "H382" },
+		{ "nama": "Lumban Julu", "kode_unik": "H383" },
+		{ "nama": "Nassau", "kode_unik": "H384" },
+		{ "nama": "Parmaksian", "kode_unik": "H385" },
+		{ "nama": "Pintu Pohan Meranti", "kode_unik": "H386" },
+		{ "nama": "Porsea", "kode_unik": "H387" },
+		{ "nama": "Siantar Narumonda", "kode_unik": "H388" },
+		{ "nama": "Sigumpar", "kode_unik": "H389" },
+		{ "nama": "Silaen", "kode_unik": "H390" },
+		{ "nama": "Tampahan", "kode_unik": "H391" },
+		{ "nama": "Uluan", "kode_unik": "H392" }
+	  ]
+	},
+	{
+	  "nama": "Kota Binjai",
+	  "kecamatan": [
+		{ "nama": "Binjai Barat", "kode_unik": "H393" },
+		{ "nama": "Binjai Kota", "kode_unik": "H394" },
+		{ "nama": "Binjai Selatan", "kode_unik": "H395" },
+		{ "nama": "Binjai Timur", "kode_unik": "H396" },
+		{ "nama": "Binjai Utara", "kode_unik": "H397" }
+	  ]
+	},
+	{
+	  "nama": "Kota Gunungsitoli",
+	  "kecamatan": [
+		{ "nama": "Gunungsitoli", "kode_unik": "H398" },
+		{ "nama": "Gunungsitoli Alo'oa", "kode_unik": "H399" },
+		{ "nama": "Gunungsitoli Barat", "kode_unik": "H400" },
+		{ "nama": "Gunungsitoli Idanoi", "kode_unik": "H401" },
+		{ "nama": "Gunungsitoli Selatan", "kode_unik": "H402" },
+		{ "nama": "Gunungsitoli Utara", "kode_unik": "H403" }
+	  ]
+	},
+	{
+	  "nama": "Kota Medan",
+	  "kecamatan": [
+		{ "nama": "Medan Amplas", "kode_unik": "H404" },
+		{ "nama": "Medan Area", "kode_unik": "H405" },
+		{ "nama": "Medan Barat", "kode_unik": "H406" },
+		{ "nama": "Medan Belawan", "kode_unik": "H407" },
+		{ "nama": "Medan Deli", "kode_unik": "H408" },
+		{ "nama": "Medan Denai", "kode_unik": "H409" },
+		{ "nama": "Medan Helvetia", "kode_unik": "H410" },
+		{ "nama": "Medan Johor", "kode_unik": "H411" },
+		{ "nama": "Medan Kota", "kode_unik": "H412" },
+		{ "nama": "Medan Labuhan", "kode_unik": "H413" },
+		{ "nama": "Medan Maimun", "kode_unik": "H414" },
+		{ "nama": "Medan Marelan", "kode_unik": "H415" },
+		{ "nama": "Medan Perjuangan", "kode_unik": "H416" },
+		{ "nama": "Medan Petisah", "kode_unik": "H417" },
+		{ "nama": "Medan Polonia", "kode_unik": "H418" },
+		{ "nama": "Medan Selayang", "kode_unik": "H419" },
+		{ "nama": "Medan Sunggal", "kode_unik": "H420" },
+		{ "nama": "Medan Tembung", "kode_unik": "H421" },
+		{ "nama": "Medan Timur", "kode_unik": "H422" },
+		{ "nama": "Medan Tuntungan", "kode_unik": "H423" },
+		{ "nama": "Medan Baru", "kode_unik": "H424" }
+	  ]
+	},
+	{
+	  "nama": "Kota Padang Sidempuan",
+	  "kecamatan": [
+		{ "nama": "Padang Sidempuan Angkola Julu", "kode_unik": "H425" },
+		{ "nama": "Padang Sidempuan Batunadua", "kode_unik": "H426" },
+		{ "nama": "Padang Sidempuan Hutaimbaru", "kode_unik": "H427" },
+		{ "nama": "Padang Sidempuan Selatan", "kode_unik": "H428" },
+		{ "nama": "Padang Sidempuan Tenggara", "kode_unik": "H429" },
+		{ "nama": "Padang Sidempuan Utara", "kode_unik": "H430" }
+	  ]
+	},
+	{
+	  "nama": "Kota Pematangsiantar",
+	  "kecamatan": [
+		{ "nama": "Siantar Barat", "kode_unik": "H431" },
+		{ "nama": "Siantar Marihat", "kode_unik": "H432" },
+		{ "nama": "Siantar Marimbun", "kode_unik": "H433" },
+		{ "nama": "Siantar Martoba", "kode_unik": "H434" },
+		{ "nama": "Siantar Selatan", "kode_unik": "H435" },
+		{ "nama": "Siantar Sitalasari", "kode_unik": "H436" },
+		{ "nama": "Siantar Timur", "kode_unik": "H437" },
+		{ "nama": "Siantar Utara", "kode_unik": "H438" }
+	  ]
+	},
+	{
+	  "nama": "Kota Sibolga",
+	  "kecamatan": [
+		{ "nama": "Sibolga Kota", "kode_unik": "H439" },
+		{ "nama": "Sibolga Sambas", "kode_unik": "H440" },
+		{ "nama": "Sibolga Selatan", "kode_unik": "H441" },
+		{ "nama": "Sibolga Utara", "kode_unik": "H442" }
+	  ]
+	},
+	{
+	  "nama": "Kota Tanjungbalai",
+	  "kecamatan": [
+		{ "nama": "Datuk Bandar", "kode_unik": "H443" },
+		{ "nama": "Datuk Bandar Timur", "kode_unik": "H444" },
+		{ "nama": "Sei Tualang Raso", "kode_unik": "H445" },
+		{ "nama": "Tanjung Balai Selatan", "kode_unik": "H446" },
+		{ "nama": "Tanjung Balai Utara", "kode_unik": "H447" },
+		{ "nama": "Teluk Nibung", "kode_unik": "H448" }
+	  ]
+	},
+	{
+	  "nama": "Kota Tebing Tinggi",
+	  "kecamatan": [
+		{ "nama": "Bajenis", "kode_unik": "H449" },
+		{ "nama": "Padang Hilir", "kode_unik": "H450" },
+		{ "nama": "Padang Hulu", "kode_unik": "H451" },
+		{ "nama": "Rambutan", "kode_unik": "H452" },
+		{ "nama": "Tebing Tinggi Kota", "kode_unik": "H453" }
+        ]
+     }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "provinsi": "Bengkulu",
+  "kabupaten": [
+    {
+      "nama": "Kabupaten Bengkulu Selatan",
+      "kecamatan": [
+        { "nama": "Manna", "kode_unik": "L01" },
+        { "nama": "Kota Manna", "kode_unik": "L02" },
+        { "nama": "Kedurang", "kode_unik": "L03" },
+        { "nama": "Kedurang Ilir", "kode_unik": "L04" },
+        { "nama": "Seginim", "kode_unik": "L05" },
+        { "nama": "Air Nipis", "kode_unik": "L06" },
+        { "nama": "Pino", "kode_unik": "L07" },
+        { "nama": "Ulu Manna", "kode_unik": "L08" },
+        { "nama": "Pino Raya", "kode_unik": "L09" },
+        { "nama": "Bunga Mas", "kode_unik": "L10" },
+        { "nama": "Pasar Manna", "kode_unik": "L11" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Bengkulu Tengah",
+      "kecamatan": [
+        { "nama": "Bang Haji", "kode_unik": "L12" },
+        { "nama": "Karang Tinggi", "kode_unik": "L13" },
+        { "nama": "Merigi Kelindang", "kode_unik": "L14" },
+        { "nama": "Merigi Sakti", "kode_unik": "L15" },
+        { "nama": "Pondok Kubang", "kode_unik": "L16" },
+        { "nama": "Pondok Kelapa", "kode_unik": "L17" },
+        { "nama": "Pagar Jati", "kode_unik": "L18" },
+        { "nama": "Taba Penanjung", "kode_unik": "L19" },
+        { "nama": "Talang Empat", "kode_unik": "L20" },
+        { "nama": "Semidang Lagan", "kode_unik": "L21" },
+        { "nama": "Pematang Tiga", "kode_unik": "L22" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Bengkulu Utara",
+      "kecamatan": [
+        { "nama": "Arga Makmur", "kode_unik": "L23" },
+        { "nama": "Padang Jaya", "kode_unik": "L24" },
+        { "nama": "Giri Mulya", "kode_unik": "L25" },
+        { "nama": "Hulu Palik", "kode_unik": "L26" },
+        { "nama": "Air Besi", "kode_unik": "L27" },
+        { "nama": "Tanjung Agung Palik", "kode_unik": "L28" },
+        { "nama": "Lais", "kode_unik": "L29" },
+        { "nama": "Batik Nau", "kode_unik": "L30" },
+        { "nama": "Ketahun", "kode_unik": "L31" },
+        { "nama": "Napal Putih", "kode_unik": "L32" },
+        { "nama": "Ulok Kupai", "kode_unik": "L33" },
+        { "nama": "Putri Hijau", "kode_unik": "L34" },
+        { "nama": "Marga Sakti Sebelat", "kode_unik": "L35" },
+        { "nama": "Enggano", "kode_unik": "L36" },
+        { "nama": "Kerkap", "kode_unik": "L37" },
+        { "nama": "Tanjung Raman", "kode_unik": "L38" },
+        { "nama": "Air Napal", "kode_unik": "L39" },
+        { "nama": "Air Padang", "kode_unik": "L40" },
+        { "nama": "Air Kelian", "kode_unik": "L41" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kaur",
+      "kecamatan": [
+        { "nama": "Kaur Selatan", "kode_unik": "L42" },
+        { "nama": "Kaur Tengah", "kode_unik": "L43" },
+        { "nama": "Kaur Utara", "kode_unik": "L44" },
+        { "nama": "Tetap", "kode_unik": "L45" },
+        { "nama": "Luas", "kode_unik": "L46" },
+        { "nama": "Lungkang Kule", "kode_unik": "L47" },
+        { "nama": "Kelam Tengah", "kode_unik": "L48" },
+        { "nama": "Tanjung Kemuning", "kode_unik": "L49" },
+        { "nama": "Padang Guci Hilir", "kode_unik": "L50" },
+        { "nama": "Padang Guci Hulu", "kode_unik": "L51" },
+        { "nama": "Semidang Gumay", "kode_unik": "L52" },
+        { "nama": "Nasal", "kode_unik": "L53" },
+        { "nama": "Maje", "kode_unik": "L54" },
+        { "nama": "Kinal", "kode_unik": "L55" },
+        { "nama": "Muara Sahung", "kode_unik": "L56" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Kepahiang",
+      "kecamatan": [
+        { "nama": "Kepahiang", "kode_unik": "L57" },
+        { "nama": "Ujan Mas", "kode_unik": "L58" },
+        { "nama": "Seberang Musi", "kode_unik": "L59" },
+        { "nama": "Kabawetan", "kode_unik": "L60" },
+        { "nama": "Merigi", "kode_unik": "L61" },
+        { "nama": "Tebat Karai", "kode_unik": "L62" },
+        { "nama": "Bermani Ilir", "kode_unik": "L63" },
+        { "nama": "Muara Kemumu", "kode_unik": "L64" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Lebong",
+      "kecamatan": [
+        { "nama": "Lebong Utara", "kode_unik": "L65" },
+        { "nama": "Lebong Selatan", "kode_unik": "L66" },
+        { "nama": "Lebong Tengah", "kode_unik": "L67" },
+        { "nama": "Rimbo Pengadang", "kode_unik": "L68" },
+        { "nama": "Topos", "kode_unik": "L69" },
+        { "nama": "Bingin Kuning", "kode_unik": "L70" },
+        { "nama": "Uram Jaya", "kode_unik": "L71" },
+        { "nama": "Pelabai", "kode_unik": "L72" },
+        { "nama": "Amen", "kode_unik": "L73" },
+        { "nama": "Pinang Belapis", "kode_unik": "L74" },
+        { "nama": "Lebong Atas", "kode_unik": "L75" },
+        { "nama": "Tubei", "kode_unik": "L76" },
+        { "nama": "Lebong Sakti", "kode_unik": "L77" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Mukomuko",
+      "kecamatan": [
+        { "nama": "Mukomuko Utara", "kode_unik": "L78" },
+        { "nama": "Mukomuko Selatan", "kode_unik": "L79" },
+        { "nama": "Air Dikit", "kode_unik": "L80" },
+        { "nama": "Air Manjuto", "kode_unik": "L81" },
+        { "nama": "Teramang Jaya", "kode_unik": "L82" },
+        { "nama": "Penarik", "kode_unik": "L83" },
+        { "nama": "Ipuh", "kode_unik": "L84" },
+        { "nama": "Kota Mukomuko", "kode_unik": "L85" },
+        { "nama": "Lubuk Pinang", "kode_unik": "L86" },
+        { "nama": "Selagan Raya", "kode_unik": "L87" },
+        { "nama": "Pondok Suguh", "kode_unik": "L88" },
+        { "nama": "Malin Deman", "kode_unik": "L89" },
+        { "nama": "Sungai Rumbai", "kode_unik": "L90" },
+        { "nama": "V Koto", "kode_unik": "L91" },
+        { "nama": "XIV Koto", "kode_unik": "L92" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Rejang Lebong",
+      "kecamatan": [
+        { "nama": "Curup", "kode_unik": "L93" },
+        { "nama": "Curup Selatan", "kode_unik": "L94" },
+        { "nama": "Curup Tengah", "kode_unik": "L95" },
+        { "nama": "Curup Timur", "kode_unik": "L96" },
+        { "nama": "Curup Utara", "kode_unik": "L97" },
+        { "nama": "Sindang Kelingi", "kode_unik": "L98" },
+        { "nama": "Sindang Beliti Ilir", "kode_unik": "L99" },
+        { "nama": "Sindang Beliti Ulu", "kode_unik": "L100" },
+        { "nama": "Selupu Rejang", "kode_unik": "L101" },
+        { "nama": "Sindang Dataran", "kode_unik": "L102" },
+        { "nama": "Padang Ulak Tanding", "kode_unik": "L103" },
+        { "nama": "Kota Padang", "kode_unik": "L104" },
+        { "nama": "Binduriang", "kode_unik": "L105" },
+        { "nama": "Bermani Ulu", "kode_unik": "L106" },
+        { "nama": "Bermani Ulu Raya", "kode_unik": "L107" }
+      ]
+    },
+    {
+      "nama": "Kabupaten Seluma",
+      "kecamatan": [
+        { "nama": "Seluma", "kode_unik": "L108" },
+        { "nama": "Seluma Selatan", "kode_unik": "L109" },
+        { "nama": "Seluma Barat", "kode_unik": "L110" },
+        { "nama": "Seluma Timur", "kode_unik": "L111" },
+        { "nama": "Seluma Utara", "kode_unik": "L112" },
+        { "nama": "Sukaraja", "kode_unik": "L113" },
+        { "nama": "Talo", "kode_unik": "L114" },
+        { "nama": "Talo Kecil", "kode_unik": "L115" },
+        { "nama": "Semidang Alas", "kode_unik": "L116" },
+        { "nama": "Semidang Alas Maras", "kode_unik": "L117" },
+        { "nama": "Air Periukan", "kode_unik": "L118" },
+        { "nama": "Ilir Talo", "kode_unik": "L119" },
+        { "nama": "Ulu Talo", "kode_unik": "L120" },
+        { "nama": "Lubuk Sandi", "kode_unik": "L121" }
+      ]
+    },
+    {
+      "nama": "Kota Bengkulu",
+      "kecamatan": [
+        { "nama": "Gading Cempaka", "kode_unik": "L122" },
+        { "nama": "Kampung Melayu", "kode_unik": "L123" },
+        { "nama": "Muara Bangka Hulu", "kode_unik": "L124" },
+        { "nama": "Ratu Agung", "kode_unik": "L125" },
+        { "nama": "Ratu Samban", "kode_unik": "L126" },
+        { "nama": "Selebar", "kode_unik": "L127" },
+        { "nama": "Singaran Pati", "kode_unik": "L128" },
+        { "nama": "Sungai Serut", "kode_unik": "L129" },
+        { "nama": "Teluk Segara", "kode_unik": "L130" }
+      ]
+    }
+  ]
+}
